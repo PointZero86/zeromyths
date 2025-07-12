@@ -23,9 +23,27 @@ not done yet...
 
 ## Gen 4
 <details>
-<summary>bleh</summary>
+<summary>Arceus (Azure Flute)</summary>
 <br>
-not done yet...
+  Use An <strong>Azure Flute</strong> In:
+  <ul>
+    <br>
+  <li>The End</li>
+  <li>End Barrens</li>
+  <li>End Highlands</li>
+  <li>End Midlands</li>
+  <li>Small End Islands</li>
+  <li>Dark Forest</li>
+  <li>Skyris Vale (BYG)</li>
+  <li>Amethyst Canyon (Terralith)</li>
+  <li>Amethyst Rainforest (Terralith)</li>
+  <li>Mirage Isles (Terralith)</li>
+  <li>Moonlight Grove (Terralith)</li>
+  <li>Moonlight Valley (Terralith)</li>
+  <li>Lantern River (Wythers)</li>
+  <li>Mushroom Island (Wythers)</li>
+  <li>Snowy Thermal Taiga (Wythers)</li>
+  </ul>
 </details>
 
 ## Gen 5

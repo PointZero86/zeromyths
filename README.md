@@ -1,5 +1,10 @@
 # Cobblemon Myths and Legends Spawns (WIP)
-#### Every Pokemon has their item listed next to their name.
+<p>
+Pokemon have their required (Item) next to their name<br>
+Biomes have their tag in [Brackets]
+
+</p>
+
 ## Generation 1 [Kanto]
 <details>
 <summary>Articuno (Tidal Bell)</summary>
@@ -17,8 +22,6 @@
   <li>Snowy Slopes</li>
   <li>Snowy Taiga</li>
   </ul>
-<br>
-not done yet...
 </details>
 
 ## Generation 2 [Johto]
@@ -41,7 +44,6 @@ not done yet...
   <li>Old Growth Pine Taiga</li>
   <li>Old Growth Spruce Taiga</li>
   </ul>
-<br>
 </details>
 
 ## Generation 3 [Hoenn]
@@ -58,14 +60,15 @@ not done yet...
   Use An <strong>Azure Flute</strong> In:
   <ul>
   <br>
-  <li>The End</li>
-  <li>End Barrens</li>
-  <li>End Highlands</li>
-  <li>End Midlands</li>
-  <li>Small End Islands</li>
-  <li>Dark Forest</li>
-  <li>Skyris Vale (BYG)</li>
-  <li>Amethyst Canyon (Terralith)</li>
+  <li>The End [minecraft:the_end]</li>
+  <li>End Barrens [minecraft:end_barrens]</li>
+  <li>End Highlands [minecraft:end_highlands]</li>
+  <li>End Midlands [minecraft:end_midlands]</li>
+  <li>Small End Islands [minecraft:small_end_islands]</li>
+  <br>
+  <li>Dark Forest [minecraft:dark_forest]</li>
+  <li>Skyris Vale [byg:skyris_vale]</li>
+  <li>Amethyst Canyon [terralith:amethyst_canyon]</li>
   <li>Amethyst Rainforest (Terralith)</li>
   <li>Mirage Isles (Terralith)</li>
   <li>Moonlight Grove (Terralith)</li>
@@ -74,7 +77,6 @@ not done yet...
   <li>Mushroom Island (Wythers)</li>
   <li>Snowy Thermal Taiga (Wythers)</li>
   </ul>
-<br>
 </details>
 <details>
 <summary>Azelf (Azelf Fang)</summary>
@@ -99,33 +101,32 @@ not done yet...
 <br>
   Use The <strong>Ironwill Sword</strong> In:
   <ul>
-    <br>
-    <li>Any Hills [#minecraft:is_hill]</li>
-    <li>Any Mountains [#minecraft:is_mountain]</li>
-    <li>Blooming Valley (Terralith)</li>
-    <li>Forested Highlands (Terralith)</li>
-    <li>Lavender Valley (Terralith)</li>
-    <li>Lush Valley (Terralith)</li>
-    <li>Moonlight Valley (Terralith)</li>
-    <li>Sakura Valley (Terralith)</li>
-    <li>Savanna Slopes (Terralith)</li>
-    <li>Temperate Highlands (Terralith)</li>
-    <li>Yosemite Lowlands (Terralith)</li>
-    <li>Yosemite Cliffs (Terralith)</li>
-    <li>Windswept Spires (Terralith)</li>
-    <li>Volcanic Peaks (Terralith)</li>
-    <li>Stony Spires (Terralith)</li>
-    <li>Autumnal Crags (Wythers)</li>
-    <li>Ayers Rock (Wythers)</li>
-    <li>Icy Crags (Wythers)</li>
-    <li>Old Growth Taiga Crags (Wythers)</li>
-    <li>Taiga Crags (Wythers)</li>
-    <li>Temperate Rainforest Crags (Wythers)</li>
-    <li>Thermal Taiga Crags (Wythers)</li>
-    <li>Windswept Jungle (Wythers)</li>
-    <li>Tibesti Mountains (Wythers)</li>
   <br>
-    
+  <li>Any Hills [#minecraft:is_hill]</li>
+  <li>Any Mountains [#minecraft:is_mountain]</li>
+  <li>Blooming Valley (Terralith)</li>
+  <li>Forested Highlands (Terralith)</li>
+  <li>Lavender Valley (Terralith)</li>
+  <li>Lush Valley (Terralith)</li>
+  <li>Moonlight Valley (Terralith)</li>
+  <li>Sakura Valley (Terralith)</li>
+  <li>Savanna Slopes (Terralith)</li>
+  <li>Temperate Highlands (Terralith)</li>
+  <li>Yosemite Lowlands (Terralith)</li>
+  <li>Yosemite Cliffs (Terralith)</li>
+  <li>Windswept Spires (Terralith)</li>
+  <li>Volcanic Peaks (Terralith)</li>
+  <li>Stony Spires (Terralith)</li>
+  <li>Autumnal Crags (Wythers)</li>
+  <li>Ayers Rock (Wythers)</li>
+  <li>Icy Crags (Wythers)</li>
+  <li>Old Growth Taiga Crags (Wythers)</li>
+  <li>Taiga Crags (Wythers)</li>
+  <li>Temperate Rainforest Crags (Wythers)</li>
+  <li>Thermal Taiga Crags (Wythers)</li>
+  <li>Windswept Jungle (Wythers)</li>
+  <li>Tibesti Mountains (Wythers)</li>
+  <br>
   </ul>
 </details>
 
@@ -153,9 +154,20 @@ not done yet...
 
 ## Generation 7 [Alola]
 <details>
-<summary>bleh</summary>
+<summary>Cosmog (Lillie's Bag)</summary>
 <br>
-not done yet...
+  Use <strong>Lillie's Bag</strong> In:
+  <ul>
+  <br>
+  <li>Cherry Grove</li>
+  <li>Flower Forest</li>
+  <li>Meadow</li>
+  <li>Sunflower Plains</li>
+  <li>Amaranth Fields (BYG)</li>
+  <li>Allium Fields (BYG)</li>
+  <li>Rose Fields (BYG)</li>
+  <li>Snowy Taiga</li>
+  </ul>
 </details>
 
 ## Generation 8 [Galar/Hisui]
@@ -167,7 +179,6 @@ not done yet...
   <br>
   <li>Flower Forest</li>
   </ul>
-<br>
 </details>
 
 ## Generation 9 [Paldea/Kitakami]

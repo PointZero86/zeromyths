@@ -2,7 +2,21 @@
 #### Every Pokemon has their item listed next to their name.
 ## Gen 1
 <details>
-<summary>bleh</summary>
+<summary>Articuno (Tidal Bell)</summary>
+<br>
+  You Need <strong>3 Ice Stones</strong> In Your Inventory
+  <br>
+  Use A <strong>Tidal Bell</strong> In:
+  <ul>
+  <br>
+  <li>Frozen Ocean</li>
+  <li>Frozen Peaks</li>
+  <li>Frozen River</li>
+  <li>Snowy Beach</li>
+  <li>Snowy Plains</li>
+  <li>Snowy Slopes</li>
+  <li>Snowy Taiga</li>
+  </ul>
 <br>
 not done yet...
 </details>
@@ -61,7 +75,7 @@ not done yet...
   <br>
   Use <strong>Diancie's Crown</strong> In:
   <ul>
-    <br>
+  <br>
   <li>Dripstone Caves</li>
   <li>Lush Caves</li>
   <li>Andesite Caves (Terralith)</li>

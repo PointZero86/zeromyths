@@ -41,7 +41,7 @@ not done yet...
 <br>
   Use An <strong>Azure Flute</strong> In:
   <ul>
-    <br>
+  <br>
   <li>The End</li>
   <li>End Barrens</li>
   <li>End Highlands</li>
@@ -57,6 +57,23 @@ not done yet...
   <li>Lantern River (Wythers)</li>
   <li>Mushroom Island (Wythers)</li>
   <li>Snowy Thermal Taiga (Wythers)</li>
+  </ul>
+<br>
+</details>
+<details>
+<summary>Azelf (Azelf Fang)</summary>
+<br>
+  Use An <strong>Azelf Fang</strong> In:
+  <ul>
+  <br>
+  <li>Any River</li>
+  <li>Swamp</li>
+  <li>Mangrove Swamp</li>
+  <li>Ice Marsh (Terralith)</li>
+  <li>Orchid Swamp (Terralith, might not work due to typo?)</li>
+  <li>Billabong (Wythers)</li>
+  <li>Lantern River (Wythers)</li>
+  <li>Tropical Forest River (Wythers)</li>
   </ul>
 </details>
 

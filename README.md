@@ -1,4 +1,4 @@
-# Myths and Legends Spawns
+# Cobblemon Myths and Legends Spawns (WIP)
 #### Every Pokemon has their item listed next to their name.
 ## Generation 1 [Kanto]
 <details>

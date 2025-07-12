@@ -1,6 +1,6 @@
 # Myths and Legends Spawns
 #### Every Pokemon has their item listed next to their name.
-## Gen 1
+## Generation 1 [Kanto]
 <details>
 <summary>Articuno (Tidal Bell)</summary>
 <br>
@@ -21,21 +21,37 @@
 not done yet...
 </details>
 
-## Gen 2
+## Generation 2 [Johto]
+<details>
+<summary>Celebi (GS Ball)</summary>
+<br>
+  Use The <strong>GS Ball</strong> In:
+  <ul>
+  <br>
+  <li>Birch Forest</li>
+  <li>Dark Forest</li>
+  <li>Flower Forest</li>
+  <li>Cherry Grove</li>
+  <li>Forest</li>
+  <li>Jungle</li>
+  <li>Mangrove Swamp</li>
+  <li>Swamp</li>
+  <li>Meadow</li>
+  <li>Old Growth Birch Forest</li>
+  <li>Old Growth Pine Taiga</li>
+  <li>Old Growth Spruce Taiga</li>
+  </ul>
+<br>
+</details>
+
+## Generation 3 [Hoenn]
 <details>
 <summary>bleh</summary>
 <br>
 not done yet...
 </details>
 
-## Gen 3
-<details>
-<summary>bleh</summary>
-<br>
-not done yet...
-</details>
-
-## Gen 4
+## Generation 4 [Sinnoh]
 <details>
 <summary>Arceus (Azure Flute)</summary>
 <br>
@@ -77,14 +93,43 @@ not done yet...
   </ul>
 </details>
 
-## Gen 5
+## Generation 5 [Unova]
 <details>
-<summary>bleh</summary>
+<summary>Cobalion (Ironwill Sword)</summary>
 <br>
-not done yet...
+  Use The <strong>Ironwill Sword</strong> In:
+  <ul>
+    <br>
+    <li>Any Hills [#minecraft:is_hill]</li>
+    <li>Any Mountains [#minecraft:is_mountain]</li>
+    <li>Blooming Valley (Terralith)</li>
+    <li>Forested Highlands (Terralith)</li>
+    <li>Lavender Valley (Terralith)</li>
+    <li>Lush Valley (Terralith)</li>
+    <li>Moonlight Valley (Terralith)</li>
+    <li>Sakura Valley (Terralith)</li>
+    <li>Savanna Slopes (Terralith)</li>
+    <li>Temperate Highlands (Terralith)</li>
+    <li>Yosemite Lowlands (Terralith)</li>
+    <li>Yosemite Cliffs (Terralith)</li>
+    <li>Windswept Spires (Terralith)</li>
+    <li>Volcanic Peaks (Terralith)</li>
+    <li>Stony Spires (Terralith)</li>
+    <li>Autumnal Crags (Wythers)</li>
+    <li>Ayers Rock (Wythers)</li>
+    <li>Icy Crags (Wythers)</li>
+    <li>Old Growth Taiga Crags (Wythers)</li>
+    <li>Taiga Crags (Wythers)</li>
+    <li>Temperate Rainforest Crags (Wythers)</li>
+    <li>Thermal Taiga Crags (Wythers)</li>
+    <li>Windswept Jungle (Wythers)</li>
+    <li>Tibesti Mountains (Wythers)</li>
+  <br>
+    
+  </ul>
 </details>
 
-## Gen 6 (XY)
+## Generation 6 [Kalos]
 <details>
 <summary>Diancie (Diance's Crown)</summary>
 <br>
@@ -106,21 +151,26 @@ not done yet...
   </ul>
 </details>
 
-## Gen 7
+## Generation 7 [Alola]
 <details>
 <summary>bleh</summary>
 <br>
 not done yet...
 </details>
 
-## Gen 8
+## Generation 8 [Galar/Hisui]
 <details>
-<summary>bleh</summary>
+<summary>Calyrex (Reins of Unity)</summary>
 <br>
-not done yet...
+  Use The <strong>Reins of Unity</strong> In:
+  <ul>
+  <br>
+  <li>Flower Forest</li>
+  </ul>
+<br>
 </details>
 
-## Gen 9
+## Generation 9 [Paldea/Kitakami]
 <details>
 <summary>bleh</summary>
 <br>

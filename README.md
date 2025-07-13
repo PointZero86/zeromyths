@@ -1,191 +1,224 @@
 # Cobblemon Myths and Legends Spawns (WIP)
 <p>
 Pokemon have their required (Item) next to their name<br>
-Biomes have their tag in [Brackets]
-
+Biomes have their tag in [Brackets], check this for modded biomes<br>
+If a Pokemon has additional conditions, they are listed below biomes
 </p>
 
 ## Generation 1 [Kanto]
-<details>
-<summary>Articuno (Tidal Bell)</summary>
-<br>
-  You Need <strong>3 Ice Stones</strong> In Your Inventory
-  <br>
-  Use A <strong>Tidal Bell</strong> In:
-  <ul>
-  <br>
-  <li>Frozen Ocean</li>
-  <li>Frozen Peaks</li>
-  <li>Frozen River</li>
-  <li>Snowy Beach</li>
-  <li>Snowy Plains</li>
-  <li>Snowy Slopes</li>
-  <li>Snowy Taiga</li>
-  </ul>
-</details>
+<details> <!--Articuno-->
+    <summary>Articuno [Tidal Bell]</summary>
+    <br>
+    Use <strong>Tidal Bell</strong> In:
+    <ul>
+    <br>
+    <li>Frozen Ocean [minecraft:frozen_ocean]</li>
+    <li>Frozen Peaks [minecraft:frozen_peaks]</li>
+    <li>Frozen River [minecraft:frozen_river]</li>
+    <li>Snowy Beach [minecraft:snowy_beach]</li>
+    <li>Snowy Plains [minecraft:snowy_plains]</li>
+    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Ice Stones In Inventory</li>
+    </ul>
+</details> <!--Articuno-->
 
 ## Generation 2 [Johto]
-<details>
-<summary>Celebi (GS Ball)</summary>
-<br>
-  Use The <strong>GS Ball</strong> In:
-  <ul>
-  <br>
-  <li>Birch Forest</li>
-  <li>Dark Forest</li>
-  <li>Flower Forest</li>
-  <li>Cherry Grove</li>
-  <li>Forest</li>
-  <li>Jungle</li>
-  <li>Mangrove Swamp</li>
-  <li>Swamp</li>
-  <li>Meadow</li>
-  <li>Old Growth Birch Forest</li>
-  <li>Old Growth Pine Taiga</li>
-  <li>Old Growth Spruce Taiga</li>
-  </ul>
-</details>
+<details> <!--Celebi-->
+    <summary>Celebi [Gs Ball]</summary>
+    <br>
+    Use <strong>Gs Ball</strong> In:
+    <ul>
+    <br>
+    <li>Birch Forest [minecraft:birch_forest]</li>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Forest [minecraft:forest]</li>
+    <li>Jungle [minecraft:jungle]</li>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Old Growth Birch Forest [minecraft:old_growth_birch_forest]</li>
+    <li>Old Growth Pine Taiga [minecraft:old_growth_pine_taiga]</li>
+    <li>Old Growth Spruce Taiga [minecraft:old_growth_spruce_taiga]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Celebi-->
 
 ## Generation 3 [Hoenn]
-<details>
-<summary>bleh</summary>
-<br>
-not done yet...
-</details>
+<details> <!--Deoxys-->
+    <summary>Deoxys [Aurora Ticket]</summary>
+    <br>
+    Use <strong>Aurora Ticket</strong> In:
+    <ul>
+    <br>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Deoxys-->
 
 ## Generation 4 [Sinnoh]
-<details>
-<summary>Arceus (Azure Flute)</summary>
-<br>
-  Use An <strong>Azure Flute</strong> In:
-  <ul>
-  <br>
-  <li>The End [minecraft:the_end]</li>
-  <li>End Barrens [minecraft:end_barrens]</li>
-  <li>End Highlands [minecraft:end_highlands]</li>
-  <li>End Midlands [minecraft:end_midlands]</li>
-  <li>Small End Islands [minecraft:small_end_islands]</li>
-  <br>
-  <li>Dark Forest [minecraft:dark_forest]</li>
-  <li>Skyris Vale [byg:skyris_vale]</li>
-  <li>Amethyst Canyon [terralith:amethyst_canyon]</li>
-  <li>Amethyst Rainforest (Terralith)</li>
-  <li>Mirage Isles (Terralith)</li>
-  <li>Moonlight Grove (Terralith)</li>
-  <li>Moonlight Valley (Terralith)</li>
-  <li>Lantern River (Wythers)</li>
-  <li>Mushroom Island (Wythers)</li>
-  <li>Snowy Thermal Taiga (Wythers)</li>
-  </ul>
-</details>
-<details>
-<summary>Azelf (Azelf Fang)</summary>
-<br>
-  Use An <strong>Azelf Fang</strong> In:
-  <ul>
-  <br>
-  <li>Any River</li>
-  <li>Swamp</li>
-  <li>Mangrove Swamp</li>
-  <li>Ice Marsh (Terralith)</li>
-  <li>Orchid Swamp (Terralith, might not work due to typo?)</li>
-  <li>Billabong (Wythers)</li>
-  <li>Lantern River (Wythers)</li>
-  <li>Tropical Forest River (Wythers)</li>
-  </ul>
-</details>
+<details> <!--Arceus-->
+    <summary>Arceus [Azure Flute]</summary>
+    <br>
+    Use <strong>Azure Flute</strong> In:
+    <ul>
+    <br>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Arceus-->
+<details> <!--Azelf-->
+    <summary>Azelf [Azelf Fang]</summary>
+    <br>
+    Use <strong>Azelf Fang</strong> In:
+    <ul>
+    <br>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    <li>Is Swamp [#byg:is_swamp]</li>
+    <li>Swamp [#c:swamp]</li>
+    <li>Is Swamp [#forge:is_swamp]</li>
+    <li>Is Swamp [#wythers:is_swamp]</li>
+    <li>Ice Marsh [terralith:ice_marsh]</li>
+    <li>Orchid Swamp [terralith:orchid_swamp]</li>
+    <li>Billabong [wythers:billabong]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Azelf-->
+<details> <!--Cresselia-->
+    <summary>Cresselia [Lunar Feather]</summary>
+    <br>
+    Use <strong>Lunar Feather</strong> In:
+    <ul>
+    <br>
+    <li>Mushroom Fields [minecraft:mushroom_fields]</li>
+    <li>Mushroom Field Shore [minecraft:mushroom_field_shore]</li>
+    <li>Snowy Tundra [minecraft:snowy_tundra]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Moon Phase: Waning Gibbous</li>
+    <li>Sky Must Not Be Blocked (Fluids Will Not Block)</li>
+    <li>Time: Night</li>
+    </ul>
+</details> <!--Cresselia-->
+<details> <!--Darkrai-->
+    <summary>Darkrai [Member Card]</summary>
+    <br>
+    Use <strong>Member Card</strong> In:
+    <ul>
+    <br>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Darkrai-->
 
 ## Generation 5 [Unova]
-<details>
-<summary>Cobalion (Ironwill Sword)</summary>
-<br>
-  Use The <strong>Ironwill Sword</strong> In:
-  <ul>
-  <br>
-  <li>Any Hills [#minecraft:is_hill]</li>
-  <li>Any Mountains [#minecraft:is_mountain]</li>
-  <li>Blooming Valley (Terralith)</li>
-  <li>Forested Highlands (Terralith)</li>
-  <li>Lavender Valley (Terralith)</li>
-  <li>Lush Valley (Terralith)</li>
-  <li>Moonlight Valley (Terralith)</li>
-  <li>Sakura Valley (Terralith)</li>
-  <li>Savanna Slopes (Terralith)</li>
-  <li>Temperate Highlands (Terralith)</li>
-  <li>Yosemite Lowlands (Terralith)</li>
-  <li>Yosemite Cliffs (Terralith)</li>
-  <li>Windswept Spires (Terralith)</li>
-  <li>Volcanic Peaks (Terralith)</li>
-  <li>Stony Spires (Terralith)</li>
-  <li>Autumnal Crags (Wythers)</li>
-  <li>Ayers Rock (Wythers)</li>
-  <li>Icy Crags (Wythers)</li>
-  <li>Old Growth Taiga Crags (Wythers)</li>
-  <li>Taiga Crags (Wythers)</li>
-  <li>Temperate Rainforest Crags (Wythers)</li>
-  <li>Thermal Taiga Crags (Wythers)</li>
-  <li>Windswept Jungle (Wythers)</li>
-  <li>Tibesti Mountains (Wythers)</li>
-  <br>
-  </ul>
-</details>
+<details> <!--Cobalion-->
+    <summary>Cobalion [Ironwill Sword]</summary>
+    <br>
+    Use <strong>Ironwill Sword</strong> In:
+    <ul>
+    <br>
+    <li>Is Hill [#minecraft:is_hill]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    <li>Mountain Slope [#c:mountain_slope]</li>
+    <li>Is Slope [#forge:is_slope]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>      
+    <li>Forested Highlands [terralith:forested_highlands]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Lush Valley [terralith:lush_valley]</li>
+    <li>Moonlight Valley [terralith:moonlight_valley]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Temperate Highlands [terralith:temperate_highlands]</li>
+    <li>Yosemite Lowlands [terralith:yosemite_lowlands]</li>
+    <li>Autumnal Crags [wythers:autumnal_crags]</li>
+    <li>Ayers Rock [wythers:ayers_rock]</li>
+    <li>Icy Crags [wythers:icy_crags]</li>
+    <li>Old Growth Taiga Crags [wythers:old_growth_taiga_crags]</li>
+    <li>Taiga Crags [wythers:taiga_crags]</li>
+    <li>Temperate Rainforest Crags [wythers:temperate_rainforest_crags]</li>
+    <li>Thermal Taiga Crags [wythers:thermal_taiga_crags]</li>
+    <li>Windswept Jungle [wythers:windswept_jungle]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Cobalion-->
+
 
 ## Generation 6 [Kalos]
-<details>
-<summary>Diancie (Diance's Crown)</summary>
-<br>
-  Y-Level Must Be Between <strong>10 to -64</strong>
-  <br>
-  Use <strong>Diancie's Crown</strong> In:
-  <ul>
-  <br>
-  <li>Dripstone Caves</li>
-  <li>Lush Caves</li>
-  <li>Andesite Caves (Terralith)</li>
-  <li>Desert Caves (Terralith)</li>
-  <li>Diorite Caves (Terralith)</li>
-  <li>Fungal Caves (Terralith)</li>
-  <li>Granite Caves (Terralith)</li>
-  <li>Infested Caves (Terralith)</li>
-  <li>Thermal Caves (Terralith)</li>
-  <li>Underground Jungle (Terralith)</li>
-  </ul>
-</details>
 
 ## Generation 7 [Alola]
-<details>
-<summary>Cosmog (Lillie's Bag)</summary>
-<br>
-  Use <strong>Lillie's Bag</strong> In:
-  <ul>
-  <br>
-  <li>Cherry Grove</li>
-  <li>Flower Forest</li>
-  <li>Meadow</li>
-  <li>Sunflower Plains</li>
-  <li>Amaranth Fields (BYG)</li>
-  <li>Allium Fields (BYG)</li>
-  <li>Rose Fields (BYG)</li>
-  <li>Snowy Taiga</li>
-  </ul>
-</details>
+<details> <!--Cosmog-->
+    <summary>Cosmog [Lillies Bag]</summary>
+    <br>
+    Use <strong>Lillies Bag</strong> In:
+    <ul>
+    <br>
+    <li>Cherry Grove [minecraft:cherry_grove]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Is Floral [#byg:is_floral]</li>
+    <li>Floral [#c:floral]</li>
+    <li>Flower Forests [#c:flower_forests]</li>
+    <li>Amaranth Fields [byg:amaranth_fields]</li>
+    <li>Allium Fields [byg:allium_fields]</li>
+    <li>Rose Fields [byg:rose_fields]</li>
+    <li>Skyris Vale [byg:skyris_vale]</li>
+    <li>Cherry Blossom Forest [byg:cherry_blossom_forest]</li>
+    <li>Orchard [byg:orchard]</li>
+    <li>Blooming Plateau [terralith:blooming_plateau]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Lavender Forest [terralith:lavender_forest]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Sakura Grove [terralith:sakura_grove]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Autumnal Flower Forest [wythers:autumnal_flower_forest]</li>
+    <li>Flowering Pantanal [wythers:flowering_pantanal]</li>
+    <li>Jacaranda Savanna [wythers:jacaranda_savanna]</li>
+    <li>Lapacho Plains [wythers:lapacho_plains]</li>
+    <li>Sakura Forest [wythers:sakura_forest]</li>
+    <li>Spring Flower Fields [wythers:spring_flower_fields]</li>
+    <li>Spring Flower Forest [wythers:spring_flower_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Cosmog-->
+
 
 ## Generation 8 [Galar/Hisui]
-<details>
-<summary>Calyrex (Reins of Unity)</summary>
-<br>
-  Use The <strong>Reins of Unity</strong> In:
-  <ul>
-  <br>
-  <li>Flower Forest</li>
-  </ul>
-</details>
+<details> <!--Calyrex-->
+    <summary>Calyrex [Reins Of Unity]</summary>
+    <br>
+    Use <strong>Reins Of Unity</strong> In:
+    <ul>
+    <br>
+    <li>Is Autumn [#cobblemon:is_autumn]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Calyrex-->
 
 ## Generation 9 [Paldea/Kitakami]
-<details>
-<summary>bleh</summary>
-<br>
-not done yet...
-</details>
+
 
 ![Nina](/assets/ninanina.gif)

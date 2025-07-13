@@ -1,6 +1,6 @@
 # Cobblemon Myths and Legends Spawns (WIP)
 <p>
-Pokemon have their required (Item) next to their name<br>
+Pokemon have their required (Item) next to their name, click the dropdown for a list of biomes<br>
 Biomes have their tag in [Brackets], check this for modded biomes<br>
 If a Pokemon has additional conditions, they are listed below biomes
 </p>
@@ -26,8 +26,25 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Articuno-->
 
 ## Generation 2 [Johto]
+<details> <!--Entei-->
+    <summary>Entei [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
+    <ul>
+    <br>
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
+    <li>Nether Wastes [minecraft:nether_wastes]</li>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Windswept Hills [minecraft:windswept_hills]</li>
+    <li>Windswept Forest [minecraft:windswept_forest]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Fire Stones In Inventory</li>
+    </ul>
+</details> <!--Entei-->
 <details> <!--Celebi-->
-    <summary>Celebi [Gs Ball]</summary>
+    <summary>Celebi [GS Ball]</summary>
     <br>
     Use <strong>Gs Ball</strong> In:
     <ul>
@@ -81,6 +98,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     <p><strong>No Other Conditons</strong></p>
     </ul>
 </details> <!--Arceus-->
+<details> <!--Dialga-->
+    <summary>Dialga [Adamant Orb]</summary>
+    <br>
+    Use <strong>Adamant Orb</strong> In:
+    <ul>
+    <br>
+    <li>Mountain Edge [minecraft:mountain_edge]</li>
+    <li>Stony Peaks [minecraft:stony_peaks]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+    </ul>
+</details> <!--Dialga-->
 <details> <!--Azelf-->
     <summary>Azelf [Azelf Fang]</summary>
     <br>
@@ -164,6 +193,19 @@ If a Pokemon has additional conditions, they are listed below biomes
 
 
 ## Generation 6 [Kalos]
+<details> <!--Diancie-->
+    <summary>Diancie [Diancies Crown]</summary>
+    <br>
+    Use <strong>Diancies Crown</strong> In:
+    <ul>
+    <br>
+    <li>Is Cave [#cobblemon:is_cave]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Max Y-Level: 10</li>
+    <li>Min Y-Level: -64</li>
+    </ul>
+</details> <!--Diancie-->
 
 ## Generation 7 [Alola]
 <details> <!--Cosmog-->
@@ -217,6 +259,25 @@ If a Pokemon has additional conditions, they are listed below biomes
     <p><strong>No Other Conditons</strong></p>
     </ul>
 </details> <!--Calyrex-->
+<details> <!--Eternatus-->
+    <summary>Eternatus [Eternatus Core]</summary>     
+    <br>
+    Use <strong>Eternatus Core</strong> In:
+    <ul>
+    <br>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    <li>Is Swamp [#byg:is_swamp]</li>
+    <li>Swamp [#c:swamp]</li>
+    <li>Is Swamp [#forge:is_swamp]</li>
+    <li>Is Swamp [#wythers:is_swamp]</li>
+    <li>Ice Marsh [terralith:ice_marsh]</li>
+    <li>Orchid Swampc [terralith:orchid_swampc]</li>  
+    <li>Billabong [wythers:billabong]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>        
+    </ul>
+</details> <!--Eternatus-->
 
 ## Generation 9 [Paldea/Kitakami]
 

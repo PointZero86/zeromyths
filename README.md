@@ -62,7 +62,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Swamp [minecraft:swamp]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Celebi-->
 
 ## Generation 3 [Hoenn]
@@ -79,7 +78,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Deoxys-->
 
 ## Generation 4 [Sinnoh]
@@ -96,7 +94,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Arceus-->
 <details> <!--Dialga-->
     <summary>Dialga [Adamant Orb]</summary>
@@ -108,7 +105,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Stony Peaks [minecraft:stony_peaks]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Dialga-->
 <details> <!--Azelf-->
     <summary>Azelf [Azelf Fang]</summary>
@@ -127,7 +123,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Billabong [wythers:billabong]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Azelf-->
 <details> <!--Cresselia-->
     <summary>Cresselia [Lunar Feather]</summary>
@@ -155,7 +150,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Swamp [minecraft:swamp]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Darkrai-->
 
 ## Generation 5 [Unova]
@@ -188,7 +182,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Windswept Jungle [wythers:windswept_jungle]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Cobalion-->
 
 
@@ -242,7 +235,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Spring Flower Forest [wythers:spring_flower_forest]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Cosmog-->
 
 
@@ -257,7 +249,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Flower Forest [minecraft:flower_forest]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-    </ul>
 </details> <!--Calyrex-->
 <details> <!--Eternatus-->
     <summary>Eternatus [Eternatus Core]</summary>     
@@ -276,7 +267,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Billabong [wythers:billabong]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>        
-    </ul>
 </details> <!--Eternatus-->
 
 ## Generation 9 [Paldea/Kitakami]

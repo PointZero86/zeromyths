@@ -239,7 +239,7 @@ If a Pokemon has additional conditions, they are listed below biomes
 
 ## Generation 5 [Unova]
 <details> <!--Kyurem-->
-    <summary>Kyurem [Dna Splicer]</summary>
+    <summary>Kyurem [DNA Splicer]</summary>
     <br>
     Use <strong>Dna Splicer</strong> In:
     <ul>
@@ -376,7 +376,35 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Cosmog-->
-
+<details> <!--Lunala-->
+    <summary>Lunala [Moon Flute]</summary>
+    <br>
+    Use <strong>Moon Flute</strong> In:
+    <ul>
+    <br>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Warped Desert [byg:warped_desert]</li>
+    <li>Is Hills [#cobblemon:is_hills]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Time: Night</li>
+    </ul>
+</details> <!--Lunala-->
+<details> <!--Magearna-->
+    <summary>Magearna [Antique Pokeball]</summary>
+    <br>
+    Use <strong>Antique Pokeball</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Needed Nearby Blocks:
+        <ul>
+        <li>Iron Block</li>
+        </ul></li>
+    </ul>
+</details> <!--Magearna-->
 
 ## Generation 8 [Galar/Hisui]
 <details> <!--Calyrex-->

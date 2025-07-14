@@ -24,6 +24,19 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>3 Ice Stones In Inventory</li>
     </ul>
 </details> <!--Articuno-->
+<details> <!--Zapdos-->
+    <summary>Zapdos [Tidal Bell]</summary>
+    <br>
+    Use <strong>Tidal Bell</strong> In:
+    <ul>
+    <br>
+    <li>Plains [minecraft:plains]</li>
+    <li>Savanna [minecraft:savanna]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Thunder Stones In Inventory</li>
+    </ul>
+</details> <!--Zapdos-->
 <details> <!--Moltres-->
     <summary>Moltres [Tidal Bell]</summary>
     <br>
@@ -308,6 +321,26 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Mesprit-->
+<details> <!--Shaymin-->
+    <summary>Shaymin [Oaks Letter]</summary>
+    <br>
+    Use <strong>Oaks Letter</strong> In:
+    <ul>
+    <br>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Blooming Plateau [terralith:blooming_plateau]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Sakura Grove [terralith:sakura_grove]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Is Floral [#cobblemon:is_floral]</li>
+    <li>Is Grassland [#cobblemon:is_grassland]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Shaymin-->
 <details> <!--Cresselia-->
     <summary>Cresselia [Lunar Feather]</summary>
     <br>
@@ -461,6 +494,17 @@ If a Pokemon has additional conditions, they are listed below biomes
 
 
 ## Generation 6 [Kalos]
+<details> <!--Yveltal-->
+    <summary>Yveltal [Cocoon Of Destruction]</summary>
+    <br>
+    Use <strong>Cocoon Of Destruction</strong> In:
+    <ul>
+    <br>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Yveltal-->
 <details> <!--Diancie-->
     <summary>Diancie [Diancies Crown]</summary>
     <br>
@@ -537,6 +581,16 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>3 Ice Stones In Inventory</li>
     </ul>
 </details> <!--Necrozma-->
+<details> <!--Type: Null-->
+    <summary>Type: Null [Type Null Mask]</summary>
+    <br>
+    Use <strong>Type Null Mask</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Type: Null-->
 <details> <!--Magearna-->
     <summary>Magearna [Antique Pokeball]</summary>
     <br>

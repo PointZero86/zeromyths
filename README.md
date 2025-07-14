@@ -28,6 +28,8 @@ If a Pokemon has additional conditions, they are listed below biomes
 ## Generation 2 [Johto]
 <details> <!--Ho-Oh-->
     <summary>Ho-Oh [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
     <ul>
     <br>
     <li>Meadow [minecraft:meadow]</li>

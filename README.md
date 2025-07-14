@@ -149,6 +149,17 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Deoxys-->
+<details> <!--Jirachi-->
+    <summary>Jirachi [Bonus Disk]</summary>
+    <br>
+    Use <strong>Bonus Disk</strong> In:
+    <ul>
+    <br>
+    <li>Mushroom Fields [minecraft:mushroom_fields]</li>
+    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Jirachi-->
 
 ## Generation 4 [Sinnoh]
 <details> <!--Arceus-->

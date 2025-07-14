@@ -24,6 +24,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>3 Ice Stones In Inventory</li>
     </ul>
 </details> <!--Articuno-->
+<details> <!--Mew-->
+    <summary>Mew [Old Sea Map]</summary>
+    <br>
+    Use <strong>Old Sea Map</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>       
+    <li>Bamboo Jungle [minecraft:bamboo_jungle]</li>
+    <li>Jungle [minecraft:jungle]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>      
+</details> <!--Mew-->
 
 ## Generation 2 [Johto]
 <details> <!--Ho-Oh-->
@@ -324,6 +336,42 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Must Be Thundering (Rain Does Not Count)</li>
     </ul>
 </details> <!--Landorus-->
+<details> <!--Meloetta-->
+    <summary>Meloetta [Meloetta Headset]</summary>
+    <br>
+    Use <strong>Meloetta Headset</strong> In:
+    <ul>
+    <br>
+    <li>Cherry Grove [minecraft:cherry_grove]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Is Floral [#byg:is_floral]</li>
+    <li>Floral [#c:floral]</li>
+    <li>Flower Forests [#c:flower_forests]</li>
+    <li>Amaranth Fields [byg:amaranth_fields]</li>
+    <li>Allium Fields [byg:allium_fields]</li>
+    <li>Rose Fields [byg:rose_fields]</li>
+    <li>Skyris Vale [byg:skyris_vale]</li>
+    <li>Cherry Blossom Forest [byg:cherry_blossom_forest]</li>
+    <li>Orchard [byg:orchard]</li>
+    <li>Blooming Plateau [terralith:blooming_plateau]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Lavender Forest [terralith:lavender_forest]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Sakura Grove [terralith:sakura_grove]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Autumnal Flower Forest [wythers:autumnal_flower_forest]</li>
+    <li>Flowering Pantanal [wythers:flowering_pantanal]</li>
+    <li>Jacaranda Savanna [wythers:jacaranda_savanna]</li>
+    <li>Lapacho Plains [wythers:lapacho_plains]</li>
+    <li>Sakura Forest [wythers:sakura_forest]</li>
+    <li>Spring Flower Fields [wythers:spring_flower_fields]</li>
+    <li>Spring Flower Forest [wythers:spring_flower_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Meloetta-->
+
 
 ## Generation 6 [Kalos]
 <details> <!--Diancie-->
@@ -405,6 +453,17 @@ If a Pokemon has additional conditions, they are listed below biomes
         </ul></li>
     </ul>
 </details> <!--Magearna-->
+<details> <!--Marshadow-->
+    <summary>Marshadow [Marshadow Hood]</summary>
+    <br>
+    Use <strong>Marshadow Hood</strong> In:
+    <ul>
+    <br>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Marshadow-->
 
 ## Generation 8 [Galar/Hisui]
 <details> <!--Calyrex-->
@@ -460,6 +519,20 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Kubfu-->
+<details> <!--Enamorus-->
+    <summary>Enamorus [Reveal Glass]</summary>      
+    <br>
+    Use <strong>Reveal Glass</strong> In:
+    <ul>
+    <br>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Cherry Grove [minecraft:cherry_grove]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Must Be Thundering (Rain Does Not Count)</li>
+    </ul>
+</details> <!--Enamorus-->
 
 ## Generation 9 [Paldea/Kitakami]
 <details> <!--Koraidon-->

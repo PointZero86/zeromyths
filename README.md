@@ -28,8 +28,6 @@ If a Pokemon has additional conditions, they are listed below biomes
 ## Generation 2 [Johto]
 <details> <!--Ho-Oh-->
     <summary>Ho-Oh [Clear Bell]</summary>
-    <br>
-    Use <strong>Clear Bell</strong> In:
     <ul>
     <br>
     <li>Meadow [minecraft:meadow]</li>
@@ -38,6 +36,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Ho-Oh-->
+<details> <!--Lugia-->
+    <summary>Lugia [Tidal Bell]</summary>
+    <br>
+    Use <strong>Tidal Bell</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Ocean [#minecraft:is_deep_ocean]</li>
+    <li>Deep Ocean [minecraft:deep_ocean]</li>
+    <li>Ocean [minecraft:ocean]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Lugia-->
 <details> <!--Entei-->
     <summary>Entei [Clear Bell]</summary>
     <br>
@@ -79,28 +89,52 @@ If a Pokemon has additional conditions, they are listed below biomes
 ## Generation 3 [Hoenn]
 <details> <!--Groudon-->
     <summary>Groudon [Red Orb]</summary>
-    <br>
     Use <strong>Red Orb</strong> In:
     <ul>
     <br>
     <li>Is Volcanic [#cobblemon:is_volcanic]</li>
     <li>Badlands [minecraft:badlands]</li>
     <li>Desert [minecraft:desert]</li>
-    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
-    </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Groudon-->
-<details> <!--Jirachi-->
-    <summary>Jirachi [Bonus Disk]</summary>
+<details> <!--Kyogre-->
+    <summary>Kyogre [Blue Orb]</summary>
     <br>
-    Use <strong>Bonus Disk</strong> In:
+    Use <strong>Blue Orb</strong> In:
     <ul>
     <br>
-    <li>Mushroom Fields [minecraft:mushroom_fields]</li>
-    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    <li>Is Ocean [#cobblemon:is_ocean]</li>
+    <li>Deep Cold Ocean [minecraft:deep_cold_ocean]</li>
+    <li>Deep Frozen Ocean [minecraft:deep_frozen_ocean]</li>
+    <li>Deep Ocean [minecraft:deep_ocean]</li>
+    <li>Ocean [minecraft:ocean]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-</details> <!--Jirachi-->
+</details> <!--Kyogre-->
+<details> <!--Latios-->
+    <summary>Latios [Eon Ticket]</summary>
+    <br>
+    Use <strong>Eon Ticket</strong> In:
+    <ul>
+    <br>
+    <li>Mirage Isles [terralith:mirage_isles]</li>
+    <li>Plains [minecraft:plains]</li>
+    <li>Mountain Edge [minecraft:mountain_edge]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Latios-->
+<details> <!--Latias-->
+    <summary>Latias [Eon Ticket]</summary>
+    <br>
+    Use <strong>Eon Ticket</strong> In:
+    <ul>
+    <br>
+    <li>Mirage Isles [terralith:mirage_isles]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Birch Forest [minecraft:birch_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Latias-->
 <details> <!--Deoxys-->
     <summary>Deoxys [Aurora Ticket]</summary>
     <br>
@@ -142,17 +176,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Dialga-->
-<details> <!--Giratina-->
-    <summary>Giratina [Griseous Orb]</summary>
-    <br>
-    Use <strong>Griseous Orb</strong> In:
-    <ul>
-    <br>
-    <li>Soul Sand Valley [minecraft:soul_sand_valley]</li>
-    <li>The End [minecraft:the_end]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Giratina-->
 <details> <!--Azelf-->
     <summary>Azelf [Azelf Fang]</summary>
     <br>
@@ -171,18 +194,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Azelf-->
-<details> <!--Heatran-->
-    <summary>Heatran [Magma Stone]</summary>
-    <br>
-    Use <strong>Magma Stone</strong> In:
-    <ul>
-    <br>
-    <li>Nether Wastes [minecraft:nether_wastes]</li>
-    <li>Basalt Deltas [minecraft:basalt_deltas]</li>
-    <li>Crimson Forest [minecraft:crimson_forest]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Heatran-->
 <details> <!--Cresselia-->
     <summary>Cresselia [Lunar Feather]</summary>
     <br>
@@ -212,6 +223,18 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Darkrai-->
 
 ## Generation 5 [Unova]
+<details> <!--Kyurem-->
+    <summary>Kyurem [Dna Splicer]</summary>
+    <br>
+    Use <strong>Dna Splicer</strong> In:
+    <ul>
+    <br>
+    <li>Frozen Peaks [minecraft:frozen_peaks]</li>
+    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Kyurem-->
 <details> <!--Cobalion-->
     <summary>Cobalion [Ironwill Sword]</summary>
     <br>
@@ -242,37 +265,52 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Cobalion-->
-<details> <!--Genesect-->
-    <summary>Genesect [Genesect Drive]</summary>
+<details> <!--Keldeo-->
+    <summary>Keldeo [Sacred Sword]</summary>
     <br>
-    Use <strong>Genesect Drive</strong> In:
+    Use <strong>Sacred Sword</strong> In:
     <ul>
     <br>
-    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
-    </ul>
-    <p><strong>Required Conditions:</strong></p><ul>
-    <li>Needed Nearby Blocks:
-        <ul>
-        <li>Iron Block</li>
-        </ul></li>
-    </ul>
-</details> <!--Genesect-->
-
-## Generation 6 [Kalos]
-<details> <!--Hoopa-->
-    <summary>Hoopa [Hoopa Ring]</summary>
-    <br>
-    Use <strong>Hoopa Ring</strong> In:
-    <ul>
-    <br>
-    <li>The End [minecraft:the_end]</li>
-    <li>End Barrens [minecraft:end_barrens]</li>
-    <li>End Highlands [minecraft:end_highlands]</li>
-    <li>End Midlands [minecraft:end_midlands]</li>
-    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>Is Hill [#minecraft:is_hill]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    <li>Mountain Slope [#c:mountain_slope]</li>
+    <li>Is Slope [#forge:is_slope]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Forested Highlands [terralith:forested_highlands]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Lush Valley [terralith:lush_valley]</li>
+    <li>Moonlight Valley [terralith:moonlight_valley]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Temperate Highlands [terralith:temperate_highlands]</li>
+    <li>Yosemite Lowlands [terralith:yosemite_lowlands]</li>
+    <li>Autumnal Crags [wythers:autumnal_crags]</li>
+    <li>Ayers Rock [wythers:ayers_rock]</li>
+    <li>Icy Crags [wythers:icy_crags]</li>
+    <li>Old Growth Taiga Crags [wythers:old_growth_taiga_crags]</li>
+    <li>Taiga Crags [wythers:taiga_crags]</li>
+    <li>Temperate Rainforest Crags [wythers:temperate_rainforest_crags]</li>
+    <li>Thermal Taiga Crags [wythers:thermal_taiga_crags]</li>
+    <li>Windswept Jungle [wythers:windswept_jungle]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-</details> <!--Hoopa-->
+</details> <!--Keldeo-->
+<details> <!--Landorus-->
+    <summary>Landorus [Reveal Glass]</summary>
+    <br>
+    Use <strong>Reveal Glass</strong> In:
+    <ul>
+    <br>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Desert [minecraft:desert]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Must Be Thundering (Rain Does Not Count)</li>
+    </ul>
+</details> <!--Landorus-->
+
+## Generation 6 [Kalos]
 <details> <!--Diancie-->
     <summary>Diancie [Diancies Crown]</summary>
     <br>
@@ -337,18 +375,6 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Calyrex-->
-<details> <!--Glastrier-->
-    <summary>Glastrier [Iceroot Carrot]</summary>
-    <br>
-    Use <strong>Iceroot Carrot</strong> In:
-    <ul>
-    <br>
-    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
-    <li>Is Taiga [#cobblemon:is_taiga]</li>
-    <li>Is Mountain [#cobblemon:is_mountain]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Glastrier-->
 <details> <!--Eternatus-->
     <summary>Eternatus [Eternatus Core]</summary>     
     <br>
@@ -367,8 +393,45 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>        
 </details> <!--Eternatus-->
+<details> <!--Kubfu-->
+    <summary>Kubfu [Kubfus Band]</summary>
+    <br>
+    Use <strong>Kubfus Band</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>        
+    <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>        
+    <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>        
+    <li>Jungle Canyon [wythers:jungle_canyon]</li>
+    <li>Subtropical Forest [wythers:subtropical_forest]</li>
+    <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
+    <li>Subtropical Grassland [wythers:subtropical_grassland]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Grassland [wythers:tropical_grassland]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Kubfu-->
 
 ## Generation 9 [Paldea/Kitakami]
+<details> <!--Koraidon-->
+    <summary>Koraidon [Scarlet Book]</summary>
+    <br>
+    Use <strong>Scarlet Book</strong> In:
+    <ul>
+    <br>
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Savanna Plateau [minecraft:savanna_plateau]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Koraidon-->
 
 
 ![Nina](/assets/ninanina.gif)

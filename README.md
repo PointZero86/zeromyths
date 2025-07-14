@@ -89,12 +89,14 @@ If a Pokemon has additional conditions, they are listed below biomes
 ## Generation 3 [Hoenn]
 <details> <!--Groudon-->
     <summary>Groudon [Red Orb]</summary>
+    <br>
     Use <strong>Red Orb</strong> In:
     <ul>
     <br>
     <li>Is Volcanic [#cobblemon:is_volcanic]</li>
     <li>Badlands [minecraft:badlands]</li>
     <li>Desert [minecraft:desert]</li>
+    </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Groudon-->
 <details> <!--Kyogre-->

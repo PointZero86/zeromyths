@@ -24,6 +24,19 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>3 Ice Stones In Inventory</li>
     </ul>
 </details> <!--Articuno-->
+<details> <!--Moltres-->
+    <summary>Moltres [Tidal Bell]</summary>
+    <br>
+    Use <strong>Tidal Bell</strong> In:
+    <ul>
+    <br>
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Windswept Hills [minecraft:windswept_hills]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Fire Stones In Inventory</li>
+    </ul>
+</details> <!--Moltres-->
 <details> <!--Mew-->
     <summary>Mew [Old Sea Map]</summary>
     <br>
@@ -36,6 +49,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>      
 </details> <!--Mew-->
+<details> <!--Mewtwo-->
+    <summary>Mewtwo [Dr Fujis Diary]</summary>
+    <br>
+    Use <strong>Dr Fujis Diary</strong> In:
+    <ul>
+    <br>
+    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Deep Dark [minecraft:deep_dark]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Mewtwo-->
 
 ## Generation 2 [Johto]
 <details> <!--Ho-Oh-->
@@ -79,6 +104,20 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>3 Fire Stones In Inventory</li>
     </ul>
 </details> <!--Entei-->
+<details> <!--Raikou-->
+    <summary>Raikou [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
+    <ul>
+    <br>
+    <li>Plains [minecraft:plains]</li>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Savanna Plateau [minecraft:savanna_plateau]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Thunder Stones In Inventory</li>
+    </ul>
+</details> <!--Raikou-->
 <details> <!--Celebi-->
     <summary>Celebi [GS Ball]</summary>
     <br>
@@ -127,6 +166,21 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Kyogre-->
+<details> <!--Rayquaza-->
+    <summary>Rayquaza [Jade Orb]</summary>
+    <br>
+    Use <strong>Jade Orb</strong> In:
+    <ul>
+    <br>
+    <li>Skylands Autumn [terralith:skylands_autumn]</li>
+    <li>Skylands Spring [terralith:skylands_spring]</li>
+    <li>Skylands Summer [terralith:skylands_summer]</li>
+    <li>Skylands Winter [terralith:skylands_winter]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Rayquaza-->
 <details> <!--Latios-->
     <summary>Latios [Eon Ticket]</summary>
     <br>
@@ -203,6 +257,21 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Dialga-->
+<details> <!--Palkia-->
+    <summary>Palkia [Lustrous Orb]</summary>
+    <br>
+    Use <strong>Lustrous Orb</strong> In:
+    <ul>
+    <br>
+    <li>Skylands Winter [terralith:skylands_winter]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Palkia-->
 <details> <!--Azelf-->
     <summary>Azelf [Azelf Fang]</summary>
     <br>
@@ -221,6 +290,24 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Azelf-->
+<details> <!--Mesprit-->
+    <summary>Mesprit [Mesprit Plume]</summary>
+    <br>
+    Use <strong>Mesprit Plume</strong> In:
+    <ul>
+    <br>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    <li>Is Swamp [#byg:is_swamp]</li>
+    <li>Swamp [#c:swamp]</li>
+    <li>Is Swamp [#forge:is_swamp]</li>
+    <li>Is Swamp [#wythers:is_swamp]</li>
+    <li>Ice Marsh [terralith:ice_marsh]</li>
+    <li>Orchid Swamp [terralith:orchid_swamp]</li>
+    <li>Billabong [wythers:billabong]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Mesprit-->
 <details> <!--Cresselia-->
     <summary>Cresselia [Lunar Feather]</summary>
     <br>
@@ -438,6 +525,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Time: Night</li>
     </ul>
 </details> <!--Lunala-->
+<details> <!--Necrozma-->
+    <summary>Necrozma [Necro Prism]</summary>
+    <br>
+    Use <strong>Necro Prism</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Ice Stones In Inventory</li>
+    </ul>
+</details> <!--Necrozma-->
 <details> <!--Magearna-->
     <summary>Magearna [Antique Pokeball]</summary>
     <br>
@@ -464,6 +563,23 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Marshadow-->
+<details> <!--Meltan-->
+    <summary>Meltan [Mystery Box]</summary>
+    <br>
+    Use <strong>Mystery Box</strong> In:
+    <ul>
+    <br>
+    <li>Taiga [minecraft:taiga]</li>
+    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
+    <li>Mountains [minecraft:mountains]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Needed Nearby Blocks:
+        <ul>
+        <li>Iron Block</li>
+        </ul></li>
+    </ul>
+</details> <!--Meltan-->
 
 ## Generation 8 [Galar/Hisui]
 <details> <!--Calyrex-->
@@ -535,6 +651,17 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Enamorus-->
 
 ## Generation 9 [Paldea/Kitakami]
+<details> <!--Miraidon-->
+    <summary>Miraidon [Violet Book]</summary>
+    <br>
+    Use <strong>Violet Book</strong> In:
+    <ul>
+    <br>
+    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    <li>Deep Dark [minecraft:deep_dark]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Miraidon-->
 <details> <!--Koraidon-->
     <summary>Koraidon [Scarlet Book]</summary>
     <br>
@@ -548,6 +675,30 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Koraidon-->
-
+<details> <!--Ogerpon-->
+    <summary>Ogerpon [Teal Mask]</summary>
+    <br>
+    Use <strong>Teal Mask</strong> In:
+    <ul>
+    <br>
+    <li>Is Floral [#cobblemon:is_floral]</li>
+    <li>Is Bamboo [#cobblemon:is_bamboo]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Moon Phase: Waning Gibbous</li>
+    </ul>
+</details> <!--Ogerpon-->
+<details> <!--Pecharunt-->
+    <summary>Pecharunt [Mythical Pecha Berry]</summary>
+    <br>
+    Use <strong>Mythical Pecha Berry</strong> In:
+    <ul>
+    <br>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Pecharunt-->
 
 ![Nina](/assets/ninanina.gif)

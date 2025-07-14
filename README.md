@@ -26,6 +26,18 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Articuno-->
 
 ## Generation 2 [Johto]
+<details> <!--Ho-Oh-->
+    <summary>Ho-Oh [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
+    <ul>
+    <br>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Ho-Oh-->
 <details> <!--Entei-->
     <summary>Entei [Clear Bell]</summary>
     <br>
@@ -65,6 +77,30 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Celebi-->
 
 ## Generation 3 [Hoenn]
+<details> <!--Groudon-->
+    <summary>Groudon [Red Orb]</summary>
+    <br>
+    Use <strong>Red Orb</strong> In:
+    <ul>
+    <br>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Desert [minecraft:desert]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Groudon-->
+<details> <!--Jirachi-->
+    <summary>Jirachi [Bonus Disk]</summary>
+    <br>
+    Use <strong>Bonus Disk</strong> In:
+    <ul>
+    <br>
+    <li>Mushroom Fields [minecraft:mushroom_fields]</li>
+    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Jirachi-->
 <details> <!--Deoxys-->
     <summary>Deoxys [Aurora Ticket]</summary>
     <br>
@@ -106,6 +142,17 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Dialga-->
+<details> <!--Giratina-->
+    <summary>Giratina [Griseous Orb]</summary>
+    <br>
+    Use <strong>Griseous Orb</strong> In:
+    <ul>
+    <br>
+    <li>Soul Sand Valley [minecraft:soul_sand_valley]</li>
+    <li>The End [minecraft:the_end]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Giratina-->
 <details> <!--Azelf-->
     <summary>Azelf [Azelf Fang]</summary>
     <br>
@@ -124,6 +171,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Azelf-->
+<details> <!--Heatran-->
+    <summary>Heatran [Magma Stone]</summary>
+    <br>
+    Use <strong>Magma Stone</strong> In:
+    <ul>
+    <br>
+    <li>Nether Wastes [minecraft:nether_wastes]</li>
+    <li>Basalt Deltas [minecraft:basalt_deltas]</li>
+    <li>Crimson Forest [minecraft:crimson_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Heatran-->
 <details> <!--Cresselia-->
     <summary>Cresselia [Lunar Feather]</summary>
     <br>
@@ -183,9 +242,37 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Cobalion-->
-
+<details> <!--Genesect-->
+    <summary>Genesect [Genesect Drive]</summary>
+    <br>
+    Use <strong>Genesect Drive</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Needed Nearby Blocks:
+        <ul>
+        <li>Iron Block</li>
+        </ul></li>
+    </ul>
+</details> <!--Genesect-->
 
 ## Generation 6 [Kalos]
+<details> <!--Hoopa-->
+    <summary>Hoopa [Hoopa Ring]</summary>
+    <br>
+    Use <strong>Hoopa Ring</strong> In:
+    <ul>
+    <br>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Hoopa-->
 <details> <!--Diancie-->
     <summary>Diancie [Diancies Crown]</summary>
     <br>
@@ -250,6 +337,18 @@ If a Pokemon has additional conditions, they are listed below biomes
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Calyrex-->
+<details> <!--Glastrier-->
+    <summary>Glastrier [Iceroot Carrot]</summary>
+    <br>
+    Use <strong>Iceroot Carrot</strong> In:
+    <ul>
+    <br>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    <li>Is Taiga [#cobblemon:is_taiga]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Glastrier-->
 <details> <!--Eternatus-->
     <summary>Eternatus [Eternatus Core]</summary>     
     <br>

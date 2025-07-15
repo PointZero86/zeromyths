@@ -1012,6 +1012,21 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
 </details> <!--Genesect-->
 
 ## Generation 6 [Kalos]
+<details> <!--Xerneas-->
+    <summary>Xerneas [Sapling Of Life]</summary>
+    <br>
+    Use <strong>Sapling Of Life</strong> In:
+    <ul>
+    <br>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Forest [minecraft:forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Is Magical [#cobblemon:is_magical]</li>
+    <li>Is Floral [#cobblemon:is_floral]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Xerneas-->
 <details> <!--Yveltal-->
     <summary>Yveltal [Cocoon Of Destruction]</summary>
     <br>
@@ -1020,9 +1035,28 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <br>
     <li>Dark Forest [minecraft:dark_forest]</li>
     <li>Swamp [minecraft:swamp]</li>
+    <li>Is Spooky [#cobblemon:is_spooky]</li>
+    <li>Is Tundra [#cobblemon:is_tundra]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Yveltal-->
+<details> <!--Zygarde-->
+    <summary>Zygarde [Zygarde Cells/Zygarde Cores]</summary>
+    <br>
+    Have <strong>95 Cells & 5 Cores</strong>, Use In:
+    <ul>
+    <br>
+    <li>Birch Forest [minecraft:birch_forest]</li>
+    <li>Forest [minecraft:forest]</li>
+    <li>Jungle [minecraft:jungle]</li>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Is Cave [#cobblemon:is_cave]</li>
+    <li>Is Swamp [#cobblemon:is_swamp]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Zygarde-->
 <details> <!--Diancie-->
     <summary>Diancie [Diancies Crown]</summary>
     <br>
@@ -1030,14 +1064,237 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <ul>
     <br>
     <li>Is Cave [#cobblemon:is_cave]</li>
+    <li>Dripstone Caves [minecraft:dripstone_caves]</li>
+    <li>Lush Caves [minecraft:lush_caves]</li>
+    <li>Caves [#c:caves]</li>
+    <li>Underground [#c:underground]</li>
+    <li>Is Underground [#forge:is_underground]</li>
+    <li>Cave/andesite Caves [terralith:cave/andesite_caves]</li>
+    <li>Cave/desert Caves [terralith:cave/desert_caves]</li>
+    <li>Cave/diorite Caves [terralith:cave/diorite_caves]</li>
+    <li>Cave/fungal Caves [terralith:cave/fungal_caves]</li>
+    <li>Cave/granite Caves [terralith:cave/granite_caves]</li>
+    <li>Cave/infested Caves [terralith:cave/infested_caves]</li>
+    <li>Cave/thermal Caves [terralith:cave/thermal_caves]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>Max Y-Level: 10</li>
     <li>Min Y-Level: -64</li>
     </ul>
 </details> <!--Diancie-->
+<details> <!--Hoopa-->
+    <summary>Hoopa [Hoopa Ring/Prism Bottle]</summary>
+    <br>
+    Use <strong>Hoopa Ring OR Prism Bottle</strong> In:
+    <ul>
+    <br>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Hoopa-->
+<details> <!--Volcanion-->
+    <summary>Volcanion [Steam Valve]</summary>
+    <br>
+    Use <strong>Steam Valve</strong> In:
+    <ul>
+    <br>
+    <li>Is Nether [#minecraft:is_nether]</li>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>
+    <li>Cave/mantle Caves [terralith:cave/mantle_caves]</li>
+    <li>Volcanic Crater [terralith:volcanic_crater]</li>
+    <li>Volcanic Peaks [terralith:volcanic_peaks]</li>
+    <li>Icy Volcano [wythers:icy_volcano]</li>
+    <li>Tropical Volcano [wythers:tropical_volcano]</li>
+    <li>Volcano [wythers:volcano]</li>
+    <li>Volcanic Chamber [wythers:volcanic_chamber]</li>
+    <li>Volcanic Crater [wythers:volcanic_crater]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Volcanion-->
 
 ## Generation 7 [Alola]
+<details> <!--Tapu Koko-->
+    <summary>Tapu Koko [Koko Totem]</summary>
+    <br>
+    Use <strong>Koko Totem</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
+    <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>
+    <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>
+    <li>Jungle Canyon [wythers:jungle_canyon]</li>
+    <li>Subtropical Forest [wythers:subtropical_forest]</li>
+    <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
+    <li>Subtropical Grassland [wythers:subtropical_grassland]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Grassland [wythers:tropical_grassland]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    <li>Stony Shore [minecraft:stony_shore]</li>
+    <li>Is Beach [#cobblemon:is_beach]</li>
+    <li>Stony Shores [#c:stony_shores]</li>
+    <li>Basalt Cliffs [terralith:basalt_cliffs]</li>
+    <li>Granite Cliffs [terralith:granite_cliffs]</li>
+    <li>White Cliffs [terralith:white_cliffs]</li>
+    <li>Calcite Coast [wythers:calcite_coast]</li>
+    <li>Coastal Mangroves [wythers:coastal_mangroves]</li>
+    <li>Cold Island [wythers:cold_island]</li>
+    <li>Cold Stony Shore [wythers:cold_stony_shore]</li>
+    <li>Deepslate Shore [wythers:deepslate_shore]</li>
+    <li>Frigid Island [wythers:frigid_island]</li>
+    <li>Frozen Island [wythers:frozen_island]</li>
+    <li>Gravelly Beach [wythers:gravelly_beach]</li>
+    <li>Icy Shore [wythers:icy_shore]</li>
+    <li>Mediterranean Island [wythers:mediterranean_island]</li>
+    <li>Temperate Island [wythers:temperate_island]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Warm Stony Shore [wythers:warm_stony_shore]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Tapu Koko-->
+<details> <!--Tapu Lele-->
+    <summary>Tapu Lele [Lele Totem]</summary>
+    <br>
+    Use <strong>Lele Totem</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
+    <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>
+    <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>
+    <li>Jungle Canyon [wythers:jungle_canyon]</li>
+    <li>Subtropical Forest [wythers:subtropical_forest]</li>
+    <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
+    <li>Subtropical Grassland [wythers:subtropical_grassland]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Grassland [wythers:tropical_grassland]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    <li>Stony Shore [minecraft:stony_shore]</li>
+    <li>Is Beach [#cobblemon:is_beach]</li>
+    <li>Stony Shores [#c:stony_shores]</li>
+    <li>Basalt Cliffs [terralith:basalt_cliffs]</li>
+    <li>Granite Cliffs [terralith:granite_cliffs]</li>
+    <li>White Cliffs [terralith:white_cliffs]</li>
+    <li>Calcite Coast [wythers:calcite_coast]</li>
+    <li>Coastal Mangroves [wythers:coastal_mangroves]</li>
+    <li>Cold Island [wythers:cold_island]</li>
+    <li>Cold Stony Shore [wythers:cold_stony_shore]</li>
+    <li>Deepslate Shore [wythers:deepslate_shore]</li>
+    <li>Frigid Island [wythers:frigid_island]</li>
+    <li>Frozen Island [wythers:frozen_island]</li>
+    <li>Gravelly Beach [wythers:gravelly_beach]</li>
+    <li>Icy Shore [wythers:icy_shore]</li>
+    <li>Mediterranean Island [wythers:mediterranean_island]</li>
+    <li>Temperate Island [wythers:temperate_island]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Warm Stony Shore [wythers:warm_stony_shore]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Tapu Lele-->
+<details> <!--Tapu Bulu-->
+    <summary>Tapu Bulu [Bulu Totem]</summary>
+    <br>
+    Use <strong>Bulu Totem</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
+    <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>
+    <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>
+    <li>Jungle Canyon [wythers:jungle_canyon]</li>
+    <li>Subtropical Forest [wythers:subtropical_forest]</li>
+    <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
+    <li>Subtropical Grassland [wythers:subtropical_grassland]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Grassland [wythers:tropical_grassland]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    <li>Stony Shore [minecraft:stony_shore]</li>
+    <li>Is Beach [#cobblemon:is_beach]</li>
+    <li>Stony Shores [#c:stony_shores]</li>
+    <li>Basalt Cliffs [terralith:basalt_cliffs]</li>
+    <li>Granite Cliffs [terralith:granite_cliffs]</li>
+    <li>White Cliffs [terralith:white_cliffs]</li>
+    <li>Calcite Coast [wythers:calcite_coast]</li>
+    <li>Coastal Mangroves [wythers:coastal_mangroves]</li>
+    <li>Cold Island [wythers:cold_island]</li>
+    <li>Cold Stony Shore [wythers:cold_stony_shore]</li>
+    <li>Deepslate Shore [wythers:deepslate_shore]</li>
+    <li>Frigid Island [wythers:frigid_island]</li>
+    <li>Frozen Island [wythers:frozen_island]</li>
+    <li>Gravelly Beach [wythers:gravelly_beach]</li>
+    <li>Icy Shore [wythers:icy_shore]</li>
+    <li>Mediterranean Island [wythers:mediterranean_island]</li>
+    <li>Temperate Island [wythers:temperate_island]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Warm Stony Shore [wythers:warm_stony_shore]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Tapu Bulu-->
+<details> <!--Tapu Fini-->
+    <summary>Tapu Fini [Fini Totem]</summary>
+    <br>
+    Use <strong>Fini Totem</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
+    <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>
+    <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>
+    <li>Jungle Canyon [wythers:jungle_canyon]</li>
+    <li>Subtropical Forest [wythers:subtropical_forest]</li>
+    <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
+    <li>Subtropical Grassland [wythers:subtropical_grassland]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Grassland [wythers:tropical_grassland]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    <li>Stony Shore [minecraft:stony_shore]</li>
+    <li>Is Beach [#cobblemon:is_beach]</li>
+    <li>Stony Shores [#c:stony_shores]</li>
+    <li>Basalt Cliffs [terralith:basalt_cliffs]</li>
+    <li>Granite Cliffs [terralith:granite_cliffs]</li>
+    <li>White Cliffs [terralith:white_cliffs]</li>
+    <li>Calcite Coast [wythers:calcite_coast]</li>
+    <li>Coastal Mangroves [wythers:coastal_mangroves]</li>
+    <li>Cold Island [wythers:cold_island]</li>
+    <li>Cold Stony Shore [wythers:cold_stony_shore]</li>
+    <li>Deepslate Shore [wythers:deepslate_shore]</li>
+    <li>Frigid Island [wythers:frigid_island]</li>
+    <li>Frozen Island [wythers:frozen_island]</li>
+    <li>Gravelly Beach [wythers:gravelly_beach]</li>
+    <li>Icy Shore [wythers:icy_shore]</li>
+    <li>Mediterranean Island [wythers:mediterranean_island]</li>
+    <li>Temperate Island [wythers:temperate_island]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Warm Stony Shore [wythers:warm_stony_shore]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Tapu Fini-->
 <details> <!--Cosmog-->
     <summary>Cosmog [Lillies Bag]</summary>
     <br>
@@ -1070,9 +1327,28 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Sakura Forest [wythers:sakura_forest]</li>
     <li>Spring Flower Fields [wythers:spring_flower_fields]</li>
     <li>Spring Flower Forest [wythers:spring_flower_forest]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Cosmog-->
+<details> <!--Solgaleo-->
+    <summary>Solgaleo [Sun Flute]</summary>
+    <br>
+    Use <strong>Sun Flute</strong> In:
+    <ul>
+    <br>
+    <li>Is Plateau [#cobblemon:is_plateau]</li>
+    <li>Desert [minecraft:desert]</li>
+    <li>Badlands Desert [wythers:badlands_desert]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Time: Day</li>
+    </ul>
+</details> <!--Solgaleo-->
 <details> <!--Lunala-->
     <summary>Lunala [Moon Flute]</summary>
     <br>
@@ -1094,21 +1370,14 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <ul>
     <br>
     <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
-    <p><strong>Required Conditions:</strong></p><ul>
-    <li>3 Ice Stones In Inventory</li>
-    </ul>
+    <p><strong>3 Shiny Stones In Inventory</strong></p>
 </details> <!--Necrozma-->
-<details> <!--Type: Null-->
-    <summary>Type: Null [Type Null Mask]</summary>
-    <br>
-    Use <strong>Type Null Mask</strong> In:
-    <ul>
-    <br>
-    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Type: Null-->
 <details> <!--Magearna-->
     <summary>Magearna [Antique Pokeball]</summary>
     <br>
@@ -1116,6 +1385,17 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <ul>
     <br>
     <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>Needed Nearby Blocks:
@@ -1132,26 +1412,27 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <br>
     <li>Dark Forest [minecraft:dark_forest]</li>
     <li>Swamp [minecraft:swamp]</li>
+    <li>Is Spooky [#cobblemon:is_spooky]</li>
+    <li>Is Dark [#cobblemon:is_dark]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Marshadow-->
-<details> <!--Meltan-->
-    <summary>Meltan [Mystery Box]</summary>
+<details> <!--Type: Null-->
+    <summary>Type: Null [Type Null Mask]</summary>
     <br>
-    Use <strong>Mystery Box</strong> In:
+    Use <strong>Type Null Mask</strong> In:
     <ul>
     <br>
-    <li>Taiga [minecraft:taiga]</li>
-    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
-    <li>Mountains [minecraft:mountains]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>        
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
-    <p><strong>Required Conditions:</strong></p><ul>
-    <li>Needed Nearby Blocks:
-        <ul>
-        <li>Iron Block</li>
-        </ul></li>
-    </ul>
-</details> <!--Meltan-->
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Type: Null-->
 
 ## Generation 8 [Galar/Hisui]
 <details> <!--Calyrex-->

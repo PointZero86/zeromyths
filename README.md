@@ -2,7 +2,9 @@
 <p>
 Pokemon have their required (Item) next to their name, click the dropdown for a list of biomes<br>
 Biomes have their tag in [Brackets], check this for modded biomes<br>
-If a Pokemon has additional conditions, they are listed below biomes
+If a Pokemon has additional conditions, they are listed below biomes<br>
+
+Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
 </p>
 
 ## Generation 1 [Kanto]
@@ -458,50 +460,10 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Deoxys-->
 
 ## Generation 4 [Sinnoh]
-<details> <!--Arceus-->
-    <summary>Arceus [Azure Flute]</summary>
+<details> <!--Uxie-->
+    <summary>Uxie [Uxie Claw]</summary>
     <br>
-    Use <strong>Azure Flute</strong> In:
-    <ul>
-    <br>
-    <li>The End [minecraft:the_end]</li>
-    <li>End Barrens [minecraft:end_barrens]</li>
-    <li>End Highlands [minecraft:end_highlands]</li>
-    <li>End Midlands [minecraft:end_midlands]</li>
-    <li>Small End Islands [minecraft:small_end_islands]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Arceus-->
-<details> <!--Dialga-->
-    <summary>Dialga [Adamant Orb]</summary>
-    <br>
-    Use <strong>Adamant Orb</strong> In:
-    <ul>
-    <br>
-    <li>Mountain Edge [minecraft:mountain_edge]</li>
-    <li>Stony Peaks [minecraft:stony_peaks]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Dialga-->
-<details> <!--Palkia-->
-    <summary>Palkia [Lustrous Orb]</summary>
-    <br>
-    Use <strong>Lustrous Orb</strong> In:
-    <ul>
-    <br>
-    <li>Skylands Winter [terralith:skylands_winter]</li>
-    <li>The End [minecraft:the_end]</li>
-    <li>End Barrens [minecraft:end_barrens]</li>
-    <li>End Highlands [minecraft:end_highlands]</li>
-    <li>End Midlands [minecraft:end_midlands]</li>
-    <li>Small End Islands [minecraft:small_end_islands]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Palkia-->
-<details> <!--Azelf-->
-    <summary>Azelf [Azelf Fang]</summary>
-    <br>
-    Use <strong>Azelf Fang</strong> In:
+    Use <strong>Uxie Claw</strong> In:
     <ul>
     <br>
     <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
@@ -511,11 +473,16 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Is Swamp [#forge:is_swamp]</li>
     <li>Is Swamp [#wythers:is_swamp]</li>
     <li>Ice Marsh [terralith:ice_marsh]</li>
-    <li>Orchid Swamp [terralith:orchid_swamp]</li>
+    <li>Orchid Swampc [terralith:orchid_swampc]</li>
     <li>Billabong [wythers:billabong]</li>
+    <li>Is River [#cobblemon:is_river]</li>
+    <li>Lantern River [wythers:lantern_river]</li>
+    <li>Is River [#minecraft:is_river]</li>
+    <li>Tropical Forest River [wythers:tropical_forest_river]</li>
+    <li>Is Freshwater [#cobblemon:is_freshwater]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-</details> <!--Azelf-->
+</details> <!--Uxie-->
 <details> <!--Mesprit-->
     <summary>Mesprit [Mesprit Plume]</summary>
     <br>
@@ -531,29 +498,129 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Ice Marsh [terralith:ice_marsh]</li>
     <li>Orchid Swamp [terralith:orchid_swamp]</li>
     <li>Billabong [wythers:billabong]</li>
+    <li>Is River [#cobblemon:is_river]</li>
+    <li>Lantern River [wythers:lantern_river]</li>
+    <li>Is River [#minecraft:is_river]</li>
+    <li>Tropical Forest River [wythers:tropical_forest_river]</li>
+    <li>Is Freshwater [#cobblemon:is_freshwater]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Mesprit-->
-<details> <!--Shaymin-->
-    <summary>Shaymin [Oaks Letter]</summary>
+<details> <!--Azelf-->
+    <summary>Azelf [Azelf Fang]</summary>
     <br>
-    Use <strong>Oaks Letter</strong> In:
+    Use <strong>Azelf Fang</strong> In:
     <ul>
     <br>
-    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
-    <li>Flower Forest [minecraft:flower_forest]</li>
-    <li>Flower Forest [minecraft:flower_forest]</li>
-    <li>Meadow [minecraft:meadow]</li>
-    <li>Blooming Plateau [terralith:blooming_plateau]</li>
-    <li>Blooming Valley [terralith:blooming_valley]</li>
-    <li>Lavender Valley [terralith:lavender_valley]</li>
-    <li>Sakura Grove [terralith:sakura_grove]</li>
-    <li>Sakura Valley [terralith:sakura_valley]</li>
-    <li>Is Floral [#cobblemon:is_floral]</li>
-    <li>Is Grassland [#cobblemon:is_grassland]</li>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Swamp [minecraft:swamp]</li>
+    <li>Is Swamp [#byg:is_swamp]</li>
+    <li>Swamp [#c:swamp]</li>
+    <li>Is Swamp [#forge:is_swamp]</li>
+    <li>Is Swamp [#wythers:is_swamp]</li>
+    <li>Ice Marsh [terralith:ice_marsh]</li>
+    <li>Orchid Swampc [terralith:orchid_swampc]</li>
+    <li>Billabong [wythers:billabong]</li>
+    <li>Is River [#cobblemon:is_river]</li>
+    <li>Lantern River [wythers:lantern_river]</li>
+    <li>Is River [#minecraft:is_river]</li>
+    <li>Tropical Forest River [wythers:tropical_forest_river]</li>
+    <li>Is Freshwater [#cobblemon:is_freshwater]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-</details> <!--Shaymin-->
+</details> <!--Azelf-->
+<details> <!--Dialga-->
+    <summary>Dialga [Adamant Orb]</summary>
+    <br>
+    Use <strong>Adamant Orb</strong> In:
+    <ul>
+    <br>
+    <li>Mountain Edge [minecraft:mountain_edge]</li>
+    <li>Stony Peaks [minecraft:stony_peaks]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    <li>Is Peak [#cobblemon:is_peak]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Dialga-->
+<details> <!--Palkia-->
+    <summary>Palkia [Lustrous Orb]</summary>
+    <br>
+    Use <strong>Lustrous Orb</strong> In:
+    <ul>
+    <br>
+    <li>Skylands Winter [terralith:skylands_winter]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>Skylands Winter [terralith:skylands_winter]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Is End [#cobblemon:is_end]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Palkia-->
+<details> <!--Giratina-->
+    <summary>Giratina [Griseous Orb]</summary>
+    <br>
+    Use <strong>Griseous Orb</strong> In:
+    <ul>
+    <br>
+    <li>Soul Sand Valley [minecraft:soul_sand_valley]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>Is Nether [#cobblemon:is_nether]</li>
+    <li>Is Spooky [#cobblemon:is_spooky]</li>
+    <li>Is Nether Wasteland [#cobblemon:is_nether_wasteland]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Giratina-->
+<details> <!--Heatran-->
+    <summary>Heatran [Magma Stone]</summary>
+    <br>
+    Use <strong>Magma Stone</strong> In:
+    <ul>
+    <br>
+    <li>Nether Wastes [minecraft:nether_wastes]</li>
+    <li>Basalt Deltas [minecraft:basalt_deltas]</li>
+    <li>Crimson Forest [minecraft:crimson_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Heatran-->
+<details> <!--Regigigas-->
+    <summary>Regigigas [Ancient Tablet]</summary>
+    <br>
+    Use <strong>Ancient Tablet</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>Is Savanna [#minecraft:is_savanna]</li>
+    <li>Savanna Plateau [#minecraft:savanna_plateau]</li>
+    <li>Is Dark Forest [#wythers:is_dark_forest]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Ashen Savanna [terralith:ashen_savanna]</li>
+    <li>Fractured Savanna [terralith:fractured_savanna]</li>
+    <li>Savanna Badlands [terralith:savanna_badlands]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Savanna Plateau [minecraft:savanna_plateau]</li>
+    <li>Is Savanna [#cobblemon:is_savanna]</li>
+    <li>Is Savanna [#minecraft:is_savanna]</li>
+    <li>Savanna Plateau [#minecraft:savanna_plateau]</li>
+    <li>Is Dark Forest [#wythers:is_dark_forest]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Ashen Savanna [terralith:ashen_savanna]</li>
+    <li>Fractured Savanna [terralith:fractured_savanna]</li>
+    <li>Savanna Badlands [terralith:savanna_badlands]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Savanna Plateau [minecraft:savanna_plateau]</li>
+    <li>Is Savanna [#cobblemon:is_savanna]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Regigigas-->
 <details> <!--Cresselia-->
     <summary>Cresselia [Lunar Feather]</summary>
     <br>
@@ -578,9 +645,60 @@ If a Pokemon has additional conditions, they are listed below biomes
     <br>
     <li>Dark Forest [minecraft:dark_forest]</li>
     <li>Swamp [minecraft:swamp]</li>
+    <li>Is Spooky [#cobblemon:is_spooky]</li>
+    <li>Is Dark [#cobblemon:is_dark]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Darkrai-->
+<details> <!--Shaymin-->
+    <summary>Shaymin [Oaks Letter]</summary>
+    <br>
+    Use <strong>Oaks Letter</strong> In:
+    <ul>
+    <br>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Blooming Plateau [terralith:blooming_plateau]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Sakura Grove [terralith:sakura_grove]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Is Floral [#cobblemon:is_floral]</li>
+    <li>Is Grassland [#cobblemon:is_grassland]</li>
+    <li>Is Lush [#cobblemon:is_lush]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Shaymin-->
+<details> <!--Arceus-->
+    <summary>Arceus [Azure Flute]</summary>
+    <br>
+    Use <strong>Azure Flute</strong> In:
+    <ul>
+    <br>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>        
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Is Magical [#byg:is_magical]</li>
+    <li>Is Dark Forest [#wythers:is_dark_forest]</li>
+    <li>Skyris Vale [byg:skyris_vale]</li>
+    <li>Amethyst Canyon [terralith:amethyst_canyon]</li>
+    <li>Amethyst Rainforest [terralith:amethyst_rainforest]</li>
+    <li>Mirage Isles [terralith:mirage_isles]</li>
+    <li>Moonlight Grove [terralith:moonlight_grove]</li>
+    <li>Moonlight Valley [terralith:moonlight_valley]</li>
+    <li>Lantern River [wythers:lantern_river]</li>
+    <li>Mushroom Island [wythers:mushroom_island]</li>
+    <li>Snowy Thermal Taiga [wythers:snowy_thermal_taiga]</li>
+    <li>Is End [#cobblemon:is_end]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Arceus-->
 
 ## Generation 5 [Unova]
 <details> <!--Kyurem-->

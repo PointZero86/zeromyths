@@ -1,4 +1,4 @@
-# Cobblemon Myths and Legends Spawns (WIP)
+# Cobblemon Myths and Legends Spawns
 <p>
 Pokemon have their required (Item) next to their name, click the dropdown for a list of biomes<br>
 Biomes have their tag in [Brackets], check this for modded biomes<br>

@@ -701,18 +701,6 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
 </details> <!--Arceus-->
 
 ## Generation 5 [Unova]
-<details> <!--Kyurem-->
-    <summary>Kyurem [DNA Splicer]</summary>
-    <br>
-    Use <strong>Dna Splicer</strong> In:
-    <ul>
-    <br>
-    <li>Frozen Peaks [minecraft:frozen_peaks]</li>
-    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
-    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Kyurem-->
 <details> <!--Cobalion-->
     <summary>Cobalion [Ironwill Sword]</summary>
     <br>
@@ -723,7 +711,7 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Is Highlands [#cobblemon:is_highlands]</li>
     <li>Mountain Slope [#c:mountain_slope]</li>
     <li>Is Slope [#forge:is_slope]</li>
-    <li>Blooming Valley [terralith:blooming_valley]</li>      
+    <li>Blooming Valley [terralith:blooming_valley]</li>
     <li>Forested Highlands [terralith:forested_highlands]</li>
     <li>Lavender Valley [terralith:lavender_valley]</li>
     <li>Lush Valley [terralith:lush_valley]</li>
@@ -740,9 +728,195 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Temperate Rainforest Crags [wythers:temperate_rainforest_crags]</li>
     <li>Thermal Taiga Crags [wythers:thermal_taiga_crags]</li>
     <li>Windswept Jungle [wythers:windswept_jungle]</li>
+    <li>Is Mountain [#minecraft:is_mountain]</li>
+    <li>Is Hills [#cobblemon:is_hills]</li>
+    <li>Is Mountain [#forge:is_mountain]</li>
+    <li>Stony Spires [terralith:stony_spires]</li>
+    <li>Volcanic Peaks [terralith:volcanic_peaks]</li>
+    <li>Windswept Spires [terralith:windswept_spires]</li>
+    <li>Yosemite Cliffs [terralith:yosemite_cliffs]</li>
+    <li>Tibesti Mountains [wythers:tibesti_mountains]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Cobalion-->
+<details> <!--Terrakion-->
+    <summary>Terrakion [Cavern Shield]</summary>
+    <br>
+    Use <strong>Cavern Shield</strong> In:
+    <ul>
+    <br>
+    <li>Is Hill [#minecraft:is_hill]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    <li>Mountain Slope [#c:mountain_slope]</li>
+    <li>Is Slope [#forge:is_slope]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Forested Highlands [terralith:forested_highlands]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Lush Valley [terralith:lush_valley]</li>
+    <li>Moonlight Valley [terralith:moonlight_valley]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Temperate Highlands [terralith:temperate_highlands]</li>
+    <li>Yosemite Lowlands [terralith:yosemite_lowlands]</li>
+    <li>Autumnal Crags [wythers:autumnal_crags]</li>
+    <li>Ayers Rock [wythers:ayers_rock]</li>
+    <li>Icy Crags [wythers:icy_crags]</li>
+    <li>Old Growth Taiga Crags [wythers:old_growth_taiga_crags]</li>
+    <li>Taiga Crags [wythers:taiga_crags]</li>
+    <li>Temperate Rainforest Crags [wythers:temperate_rainforest_crags]</li>
+    <li>Thermal Taiga Crags [wythers:thermal_taiga_crags]</li>
+    <li>Windswept Jungle [wythers:windswept_jungle]</li>
+    <li>Is Mountain [#minecraft:is_mountain]</li>
+    <li>Is Hills [#cobblemon:is_hills]</li>
+    <li>Is Mountain [#forge:is_mountain]</li>
+    <li>Stony Spires [terralith:stony_spires]</li>
+    <li>Volcanic Peaks [terralith:volcanic_peaks]</li>
+    <li>Windswept Spires [terralith:windswept_spires]</li>
+    <li>Yosemite Cliffs [terralith:yosemite_cliffs]</li>
+    <li>Tibesti Mountains [wythers:tibesti_mountains]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Terrakion-->
+<details> <!--Virizion-->
+    <summary>Virizion [Grassland Blade]</summary>
+    <br>
+    Use <strong>Grassland Blade</strong> In:
+    <ul>
+    <br>
+    <li>Is Hill [#minecraft:is_hill]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    <li>Mountain Slope [#c:mountain_slope]</li>
+    <li>Is Slope [#forge:is_slope]</li>
+    <li>Blooming Valley [terralith:blooming_valley]</li>
+    <li>Forested Highlands [terralith:forested_highlands]</li>
+    <li>Lavender Valley [terralith:lavender_valley]</li>
+    <li>Lush Valley [terralith:lush_valley]</li>
+    <li>Moonlight Valley [terralith:moonlight_valley]</li>
+    <li>Sakura Valley [terralith:sakura_valley]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Temperate Highlands [terralith:temperate_highlands]</li>
+    <li>Yosemite Lowlands [terralith:yosemite_lowlands]</li>
+    <li>Autumnal Crags [wythers:autumnal_crags]</li>
+    <li>Ayers Rock [wythers:ayers_rock]</li>
+    <li>Icy Crags [wythers:icy_crags]</li>
+    <li>Old Growth Taiga Crags [wythers:old_growth_taiga_crags]</li>
+    <li>Taiga Crags [wythers:taiga_crags]</li>
+    <li>Temperate Rainforest Crags [wythers:temperate_rainforest_crags]</li>
+    <li>Thermal Taiga Crags [wythers:thermal_taiga_crags]</li>
+    <li>Windswept Jungle [wythers:windswept_jungle]</li>
+    <li>Is Mountain [#minecraft:is_mountain]</li>
+    <li>Is Hills [#cobblemon:is_hills]</li>
+    <li>Is Mountain [#forge:is_mountain]</li>
+    <li>Stony Spires [terralith:stony_spires]</li>
+    <li>Volcanic Peaks [terralith:volcanic_peaks]</li>
+    <li>Windswept Spires [terralith:windswept_spires]</li>
+    <li>Yosemite Cliffs [terralith:yosemite_cliffs]</li>
+    <li>Tibesti Mountains [wythers:tibesti_mountains]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Virizion-->
+<details> <!--Tornadus-->
+    <summary>Tornadus [Reveal Glass]</summary>
+    <br>
+    Use <strong>Reveal Glass</strong> In:
+    <ul>
+    <br>
+    <li>Jungle [minecraft:jungle]</li>
+    <li>Bamboo Jungle [minecraft:bamboo_jungle]</li>
+    <li>Jungle Edge [minecraft:jungle_edge]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Must Be Thundering (Rain Does Not Count)</li>
+    </ul>
+</details> <!--Tornadus-->
+<details> <!--Thundurus-->
+    <summary>Thundurus [Reveal Glass]</summary>
+    <br>
+    Use <strong>Reveal Glass</strong> In:
+    <ul>
+    <br>
+    <li>Plains [minecraft:plains]</li>
+    <li>Mountains [minecraft:mountains]</li>
+    <li>Badlands [minecraft:badlands]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Must Be Thundering (Rain Does Not Count)</li>
+    </ul>
+</details> <!--Thundurus-->
+<details> <!--Landorus-->
+    <summary>Landorus [Reveal Glass]</summary>
+    <br>
+    Use <strong>Reveal Glass</strong> In:
+    <ul>
+    <br>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Desert [minecraft:desert]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Must Be Thundering (Rain Does Not Count)</li>
+    </ul>
+</details> <!--Landorus-->
+<details> <!--Reshiram-->
+    <summary>Reshiram [Light Stone]</summary>
+    <br>
+    Use <strong>Light Stone</strong> In:
+    <ul>
+    <br>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Desert [minecraft:desert]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Min Light Level: 8</li>
+    <li>Max Light Level: 15</li>
+    </ul>
+</details> <!--Reshiram-->
+<details> <!--Zekrom-->
+    <summary>Zekrom [Dark Stone]</summary>
+    <br>
+    Use <strong>Dark Stone</strong> In:
+    <ul>
+    <br>
+    <li>Swamp [minecraft:swamp]</li>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Roofed Forest [minecraft:roofed_forest]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Min Light Level: 0</li>
+    <li>Max Light Level: 7</li>
+    </ul>
+</details> <!--Zekrom-->
+<details> <!--Kyurem-->
+    <summary>Kyurem [Dna Splicer]</summary>
+    <br>
+    Use <strong>Dna Splicer</strong> In:
+    <ul>
+    <br>
+    <li>Frozen Peaks [minecraft:frozen_peaks]</li>
+    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
+    <li>Is Freezing [#cobblemon:is_freezing]</li>
+    <li>Is Glacial [#cobblemon:is_glacial]</li>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Kyurem-->
+<details> <!--Victini-->
+    <summary>Victini [Liberty Pass]</summary>
+    <br>
+    Use <strong>Liberty Pass</strong> In:
+    <ul>
+    <br>
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>
+    <li>Is Thermal [#cobblemon:is_thermal]</li>
+    <li>Is Savanna [#cobblemon:is_savanna]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Victini-->
 <details> <!--Keldeo-->
     <summary>Keldeo [Sacred Sword]</summary>
     <br>
@@ -770,23 +944,17 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Temperate Rainforest Crags [wythers:temperate_rainforest_crags]</li>
     <li>Thermal Taiga Crags [wythers:thermal_taiga_crags]</li>
     <li>Windswept Jungle [wythers:windswept_jungle]</li>
+    <li>Is Mountain [#minecraft:is_mountain]</li>
+    <li>Is Hills [#cobblemon:is_hills]</li>
+    <li>Is Mountain [#forge:is_mountain]</li>
+    <li>Stony Spires [terralith:stony_spires]</li>
+    <li>Volcanic Peaks [terralith:volcanic_peaks]</li>
+    <li>Windswept Spires [terralith:windswept_spires]</li>
+    <li>Yosemite Cliffs [terralith:yosemite_cliffs]</li>
+    <li>Tibesti Mountains [wythers:tibesti_mountains]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Keldeo-->
-<details> <!--Landorus-->
-    <summary>Landorus [Reveal Glass]</summary>
-    <br>
-    Use <strong>Reveal Glass</strong> In:
-    <ul>
-    <br>
-    <li>Savanna [minecraft:savanna]</li>
-    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
-    <li>Desert [minecraft:desert]</li>
-    </ul>
-    <p><strong>Required Conditions:</strong></p><ul>
-    <li>Must Be Thundering (Rain Does Not Count)</li>
-    </ul>
-</details> <!--Landorus-->
 <details> <!--Meloetta-->
     <summary>Meloetta [Meloetta Headset]</summary>
     <br>
@@ -822,7 +990,26 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Meloetta-->
-
+<details> <!--Genesect-->
+    <summary>Genesect [Genesect Drive]</summary>
+    <br>
+    Use <strong>Genesect Drive</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Needed Nearby Blocks:
+        <ul>
+        <li>Iron Block</li>
+        </ul></li>
+    </ul>
+</details> <!--Genesect-->
 
 ## Generation 6 [Kalos]
 <details> <!--Yveltal-->

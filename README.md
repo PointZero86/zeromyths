@@ -19,6 +19,11 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Snowy Plains [minecraft:snowy_plains]</li>
     <li>Snowy Slopes [minecraft:snowy_slopes]</li>
     <li>Snowy Taiga [minecraft:snowy_taiga]</li>
+    <li>Is Cold [#cobblemon:is_cold]</li>
+    <li>Is Freezing [#cobblemon:is_freezing]</li>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    <li>Is Glacial [#cobblemon:is_glacial]</li>
+    <li>Is Frozen Ocean [#cobblemon:is_frozen_ocean]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Ice Stones In Inventory</li>
@@ -32,6 +37,8 @@ If a Pokemon has additional conditions, they are listed below biomes
     <br>
     <li>Plains [minecraft:plains]</li>
     <li>Savanna [minecraft:savanna]</li>
+    <li>Is Sky [#cobblemon:is_sky]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Thunder Stones In Inventory</li>
@@ -45,6 +52,9 @@ If a Pokemon has additional conditions, they are listed below biomes
     <br>
     <li>Badlands [minecraft:badlands]</li>
     <li>Windswept Hills [minecraft:windswept_hills]</li>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>
+    <li>Is Thermal [#cobblemon:is_thermal]</li>
+    <li>Is Sky [#cobblemon:is_sky]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Fire Stones In Inventory</li>
@@ -56,11 +66,14 @@ If a Pokemon has additional conditions, they are listed below biomes
     Use <strong>Old Sea Map</strong> In:
     <ul>
     <br>
-    <li>Is Jungle [#cobblemon:is_jungle]</li>       
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
     <li>Bamboo Jungle [minecraft:bamboo_jungle]</li>
     <li>Jungle [minecraft:jungle]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    <li>Is Lush [#cobblemon:is_lush]</li>
+    <li>Is Bamboo [#cobblemon:is_bamboo]</li>
     </ul>
-    <p><strong>No Other Conditons</strong></p>      
+    <p><strong>No Other Conditons</strong></p>
 </details> <!--Mew-->
 <details> <!--Mewtwo-->
     <summary>Mewtwo [Dr Fujis Diary]</summary>
@@ -71,6 +84,9 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
     <li>Dark Forest [minecraft:dark_forest]</li>
     <li>Deep Dark [minecraft:deep_dark]</li>
+    <li>Is Cave [#cobblemon:is_cave]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>Is Spooky [#cobblemon:is_spooky]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Mewtwo-->

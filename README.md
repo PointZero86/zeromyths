@@ -92,6 +92,58 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Mewtwo-->
 
 ## Generation 2 [Johto]
+<details> <!--Raikou-->
+    <summary>Raikou [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
+    <ul>
+    <br>
+    <li>Plains [minecraft:plains]</li>
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Savanna Plateau [minecraft:savanna_plateau]</li>
+    <li>Is Plains [#cobblemon:is_plains]</li>
+    <li>Is Grassland [#cobblemon:is_grassland]</li>
+    <li>Is Arid [#cobblemon:is_arid]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Thunder Stones In Inventory</li>
+    </ul>
+</details> <!--Raikou-->
+<details> <!--Entei-->
+    <summary>Entei [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
+    <ul>
+    <br>
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>  
+    <li>Nether Wastes [minecraft:nether_wastes]</li>      
+    <li>Savanna [minecraft:savanna]</li>
+    <li>Windswept Hills [minecraft:windswept_hills]</li>  
+    <li>Windswept Forest [minecraft:windswept_forest]</li>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>
+    <li>Is Thermal [#cobblemon:is_thermal]</li>
+    <li>Is Badlands [#cobblemon:is_badlands]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>      
+    <li>3 Fire Stones In Inventory</li>
+    </ul>
+</details> <!--Entei-->
+<details> <!--Suicune-->
+    <summary>Suicune [Clear Bell]</summary>
+    <br>
+    Use <strong>Clear Bell</strong> In:
+    <ul>
+    <br>
+    <li>Frozen River [minecraft:frozen_river]</li>
+    <li>River [minecraft:river]</li>
+    <li>Is Freshwater [#cobblemon:is_freshwater]</li>
+    <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>3 Water Stones In Inventory</li>
+    </ul>
+</details> <!--Suicune-->
 <details> <!--Ho-Oh-->
     <summary>Ho-Oh [Clear Bell]</summary>
     <br>
@@ -101,6 +153,15 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Meadow [minecraft:meadow]</li>
     <li>Sunflower Plains [minecraft:sunflower_plains]</li>
     <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Is Sky [#cobblemon:is_sky]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Is Summer [#cobblemon:is_summer]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Is Sky [#cobblemon:is_sky]</li>
+    <li>Sunflower Plains [#minecraft:sunflower_plains]</li>
+    <li>Is Summer [#cobblemon:is_summer]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Ho-Oh-->
@@ -113,44 +174,22 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Is Deep Ocean [#minecraft:is_deep_ocean]</li>
     <li>Deep Ocean [minecraft:deep_ocean]</li>
     <li>Ocean [minecraft:ocean]</li>
+    <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
+    <li>Is Ocean [#cobblemon:is_ocean]</li>
+    <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
+    <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
+    <li>Deep Ocean [minecraft:deep_ocean]</li>
+    <li>Ocean [minecraft:ocean]</li>
+    <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
+    <li>Is Ocean [#cobblemon:is_ocean]</li>
+    <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Lugia-->
-<details> <!--Entei-->
-    <summary>Entei [Clear Bell]</summary>
-    <br>
-    Use <strong>Clear Bell</strong> In:
-    <ul>
-    <br>
-    <li>Badlands [minecraft:badlands]</li>
-    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
-    <li>Nether Wastes [minecraft:nether_wastes]</li>
-    <li>Savanna [minecraft:savanna]</li>
-    <li>Windswept Hills [minecraft:windswept_hills]</li>
-    <li>Windswept Forest [minecraft:windswept_forest]</li>
-    </ul>
-    <p><strong>Required Conditions:</strong></p><ul>
-    <li>3 Fire Stones In Inventory</li>
-    </ul>
-</details> <!--Entei-->
-<details> <!--Raikou-->
-    <summary>Raikou [Clear Bell]</summary>
-    <br>
-    Use <strong>Clear Bell</strong> In:
-    <ul>
-    <br>
-    <li>Plains [minecraft:plains]</li>
-    <li>Savanna [minecraft:savanna]</li>
-    <li>Savanna Plateau [minecraft:savanna_plateau]</li>
-    </ul>
-    <p><strong>Required Conditions:</strong></p><ul>
-    <li>3 Thunder Stones In Inventory</li>
-    </ul>
-</details> <!--Raikou-->
 <details> <!--Celebi-->
     <summary>Celebi [GS Ball]</summary>
     <br>
-    Use <strong>Gs Ball</strong> In:
+    Use <strong>GS Ball</strong> In:
     <ul>
     <br>
     <li>Birch Forest [minecraft:birch_forest]</li>
@@ -161,9 +200,14 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
     <li>Meadow [minecraft:meadow]</li>
     <li>Old Growth Birch Forest [minecraft:old_growth_birch_forest]</li>
-    <li>Old Growth Pine Taiga [minecraft:old_growth_pine_taiga]</li>
+    <li>Old Growth Pine Taiga [minecraft:old_growth_pine_taiga]</li>    
     <li>Old Growth Spruce Taiga [minecraft:old_growth_spruce_taiga]</li>
     <li>Swamp [minecraft:swamp]</li>
+    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Is Magical [#cobblemon:is_magical]</li>
+    <li>Is Lush [#cobblemon:is_lush]</li>
+    <li>Cherry Grove [minecraft:cherry_grove]</li>
+    <li>Is Spring [#cobblemon:is_spring]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Celebi-->

@@ -213,18 +213,166 @@ If a Pokemon has additional conditions, they are listed below biomes
 </details> <!--Celebi-->
 
 ## Generation 3 [Hoenn]
-<details> <!--Groudon-->
-    <summary>Groudon [Red Orb]</summary>
+<details> <!--Regirock-->
+    <summary>Regirock [Stone Tablet]</summary>
     <br>
-    Use <strong>Red Orb</strong> In:
+    Use <strong>Stone Tablet</strong> In:
     <ul>
     <br>
-    <li>Is Volcanic [#cobblemon:is_volcanic]</li>
-    <li>Badlands [minecraft:badlands]</li>
     <li>Desert [minecraft:desert]</li>
+    <li>Is Desert [#byg:is_desert]</li>
+    <li>Desert [#c:desert]</li>
+    <li>Is Desert [#wythers:is_desert]</li>
+    <li>Ancient Sands [terralith:ancient_sands]</li>
+    <li>Desert Canyon [terralith:desert_canyon]</li>
+    <li>Cave/desert Caves [terralith:cave/desert_caves]</li>
+    <li>Desert Oasis [terralith:desert_oasis]</li>
+    <li>Desert Spires [terralith:desert_spires]</li>
+    <li>Lush Desert [terralith:lush_desert]</li>
+    <li>Red Oasis [terralith:red_oasis]</li>
+    <li>Sandstone Valley [terralith:sandstone_valley]</li>
+    <li>Badlands Desert [wythers:badlands_desert]</li>
+    <li>Desert Island [wythers:desert_island]</li>
+    <li>Kwongan Heath [wythers:kwongan_heath]</li>
+    <li>Outback Desert [wythers:outback_desert]</li>
+    <li>Red Desert [wythers:red_desert]</li>
+    <li>Sandy Jungle [wythers:sandy_jungle]</li>
+    <li>Is Badlands [#minecraft:is_badlands]</li>
+    <li>Mesa [#c:mesa]</li>
+    <li>Ashen Savanna [terralith:ashen_savanna]</li>
+    <li>Red Oasis [terralith:red_oasis]</li>
+    <li>Warped Mesa [terralith:warped_mesa]</li>
+    <li>White Mesa [terralith:white_mesa]</li>
+    <li>Danakil Desert [wythers:danakil_desert]</li>
+    <li>Is Badlands [#minecraft:is_badlands]</li>
+    <li>Mesa [#c:mesa]</li>
+    <li>Ashen Savanna [terralith:ashen_savanna]</li>
+    <li>Red Oasis [terralith:red_oasis]</li>
+    <li>Warped Mesa [terralith:warped_mesa]</li>
+    <li>White Mesa [terralith:white_mesa]</li>
+    <li>Danakil Desert [wythers:danakil_desert]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Max Y-Level: 63</li>
+    </ul>
+</details> <!--Regirock-->
+<details> <!--Regice-->
+    <summary>Regice [Ice Tablet]</summary>
+    <br>
+    Use <strong>Ice Tablet</strong> In:
+    <ul>
+    <br>
+    <li>Frozen River [minecraft:frozen_river]</li>
+    <li>Jagged Peaks [minecraft:jagged_peaks]</li>
+    <li>Snowy Beach [minecraft:snowy_beach]</li>
+    <li>Snowy Plains [minecraft:snowy_plains]</li>
+    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Is Frozen Ocean [#cobblemon:is_frozen_ocean]</li>
+    <li>Is Glacial [#cobblemon:is_glacial]</li>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    <li>Is Snowy [#byg:is_snowy]</li>
+    <li>Snowy [#c:snowy]</li>
+    <li>Is Snowy [#forge:is_snowy]</li>
+    <li>Cardinal Tundra [byg:cardinal_tundra]</li>
+    <li>Emerald Peaks [terralith:emerald_peaks]</li>
+    <li>Scarlet Mountains [terralith:scarlet_mountains]</li>
+    <li>Skylands Winter [terralith:skylands_winter]</li>
+    <li>Snowy Badlands [terralith:snowy_badlands]</li>
+    <li>Crimson Tundra [wythers:crimson_tundra]</li>
+    <li>Frozen Island [wythers:frozen_island]</li>
+    <li>Snowy Bog [wythers:snowy_bog]</li>
+    <li>Snowy Canyon [wythers:snowy_canyon]</li>
+    <li>Snowy Peaks [wythers:snowy_peaks]</li>
+    <li>Snowy Tundra [wythers:snowy_tundra]</li>
+    <li>Is Freezing [#cobblemon:is_freezing]</li>
+    <li>Is Peak [#cobblemon:is_peak]</li>
+    <li>Is Taiga [#cobblemon:is_taiga]</li>
+    <li>Is Tundra [#cobblemon:is_tundra]</li>
+    <li>Is Cold [#byg:is_cold]</li>
+    <li>Climate Cold [#c:climate_cold]</li>
+    <li>Is Cold/overworld [#forge:is_cold/overworld]</li>
+    <li>Berry Bog [wythers:berry_bog]</li>
+    <li>Frozen River [minecraft:frozen_river]</li>
+    <li>Jagged Peaks [minecraft:jagged_peaks]</li>
+    <li>Snowy Beach [minecraft:snowy_beach]</li>
+    <li>Snowy Plains [minecraft:snowy_plains]</li>
+    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Is Frozen Ocean [#cobblemon:is_frozen_ocean]</li>
+    <li>Is Glacial [#cobblemon:is_glacial]</li>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    <li>Is Snowy [#byg:is_snowy]</li>
+    <li>Snowy [#c:snowy]</li>
+    <li>Is Snowy [#forge:is_snowy]</li>
+    <li>Cardinal Tundra [byg:cardinal_tundra]</li>
+    <li>Emerald Peaks [terralith:emerald_peaks]</li>
+    <li>Scarlet Mountains [terralith:scarlet_mountains]</li>
+    <li>Skylands Winter [terralith:skylands_winter]</li>
+    <li>Snowy Badlands [terralith:snowy_badlands]</li>
+    <li>Crimson Tundra [wythers:crimson_tundra]</li>
+    <li>Frozen Island [wythers:frozen_island]</li>
+    <li>Snowy Bog [wythers:snowy_bog]</li>
+    <li>Snowy Canyon [wythers:snowy_canyon]</li>
+    <li>Snowy Peaks [wythers:snowy_peaks]</li>
+    <li>Snowy Tundra [wythers:snowy_tundra]</li>
+    <li>Is Freezing [#cobblemon:is_freezing]</li>
+    <li>Is Peak [#cobblemon:is_peak]</li>
+    <li>Is Taiga [#cobblemon:is_taiga]</li>
+    <li>Is Tundra [#cobblemon:is_tundra]</li>
+    <li>Is Cold [#byg:is_cold]</li>
+    <li>Climate Cold [#c:climate_cold]</li>
+    <li>Is Cold/overworld [#forge:is_cold/overworld]</li>
+    <li>Berry Bog [wythers:berry_bog]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-</details> <!--Groudon-->
+</details> <!--Regice-->
+<details> <!--Registeel-->
+    <summary>Registeel [Steel Tablet]</summary>
+    <br>
+    Use <strong>Steel Tablet</strong> In:
+    <ul>
+    <br>
+    <li>Deep Dark [minecraft:deep_dark]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>Village [#minecraft:village]</li>
+    <li>Village [#minecraft:village]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Needed Nearby Blocks:
+        <ul>
+        <li>Iron Block</li>
+        </ul></li>
+    </ul>
+</details> <!--Registeel-->
+<details> <!--Latias-->
+    <summary>Latias [Eon Ticket]</summary>
+    <br>
+    Use <strong>Eon Ticket</strong> In:
+    <ul>
+    <br>
+    <li>Mirage Isles [terralith:mirage_isles]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Birch Forest [minecraft:birch_forest]</li>
+    <li>Is Coast [#cobblemon:is_coast]</li>
+    <li>Is Temperate [#cobblemon:is_temperate]</li>
+    <li>Is Beach [#cobblemon:is_beach]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Latias-->
+<details> <!--Latios-->
+    <summary>Latios [Eon Ticket]</summary>
+    <br>
+    Use <strong>Eon Ticket</strong> In:
+    <ul>
+    <br>
+    <li>Mirage Isles [terralith:mirage_isles]</li>
+    <li>Plains [minecraft:plains]</li>
+    <li>Mountain Edge [minecraft:mountain_edge]</li>
+    <li>Is Coast [#cobblemon:is_coast]</li>
+    <li>Is Temperate [#cobblemon:is_temperate]</li>
+    <li>Is Beach [#cobblemon:is_beach]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Latios-->
 <details> <!--Kyogre-->
     <summary>Kyogre [Blue Orb]</summary>
     <br>
@@ -236,9 +384,28 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Deep Frozen Ocean [minecraft:deep_frozen_ocean]</li>
     <li>Deep Ocean [minecraft:deep_ocean]</li>
     <li>Ocean [minecraft:ocean]</li>
+    <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
+    <li>Is Ocean [#cobblemon:is_ocean]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Kyogre-->
+<details> <!--Groudon-->
+    <summary>Groudon [Red Orb]</summary>
+    <br>
+    Use <strong>Red Orb</strong> In:
+    <ul>
+    <br>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>       
+    <li>Badlands [minecraft:badlands]</li>
+    <li>Desert [minecraft:desert]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
+    <li>Is Volcanic [#cobblemon:is_volcanic]</li>       
+    <li>Is Desert [#cobblemon:is_desert]</li>
+    <li>Is Arid [#cobblemon:is_arid]</li>
+    <li>Is Thermal [#cobblemon:is_thermal]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Groudon-->
 <details> <!--Rayquaza-->
     <summary>Rayquaza [Jade Orb]</summary>
     <br>
@@ -251,47 +418,16 @@ If a Pokemon has additional conditions, they are listed below biomes
     <li>Skylands Winter [terralith:skylands_winter]</li>
     <li>Is Jungle [#cobblemon:is_jungle]</li>
     <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Is Sky [#cobblemon:is_sky]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>Is End [#minecraft:is_end]</li>
+    <li>Is End [#cobblemon:is_end]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Rayquaza-->
-<details> <!--Latios-->
-    <summary>Latios [Eon Ticket]</summary>
-    <br>
-    Use <strong>Eon Ticket</strong> In:
-    <ul>
-    <br>
-    <li>Mirage Isles [terralith:mirage_isles]</li>
-    <li>Plains [minecraft:plains]</li>
-    <li>Mountain Edge [minecraft:mountain_edge]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Latios-->
-<details> <!--Latias-->
-    <summary>Latias [Eon Ticket]</summary>
-    <br>
-    Use <strong>Eon Ticket</strong> In:
-    <ul>
-    <br>
-    <li>Mirage Isles [terralith:mirage_isles]</li>
-    <li>Flower Forest [minecraft:flower_forest]</li>
-    <li>Birch Forest [minecraft:birch_forest]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Latias-->
-<details> <!--Deoxys-->
-    <summary>Deoxys [Aurora Ticket]</summary>
-    <br>
-    Use <strong>Aurora Ticket</strong> In:
-    <ul>
-    <br>
-    <li>The End [minecraft:the_end]</li>
-    <li>End Barrens [minecraft:end_barrens]</li>
-    <li>End Highlands [minecraft:end_highlands]</li>
-    <li>End Midlands [minecraft:end_midlands]</li>
-    <li>Small End Islands [minecraft:small_end_islands]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Deoxys-->
 <details> <!--Jirachi-->
     <summary>Jirachi [Bonus Disk]</summary>
     <br>
@@ -300,9 +436,26 @@ If a Pokemon has additional conditions, they are listed below biomes
     <br>
     <li>Mushroom Fields [minecraft:mushroom_fields]</li>
     <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    <li>Is Magical [#cobblemon:is_magical]</li>
+    <li>Is Sparse [#cobblemon:is_sparse]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Jirachi-->
+<details> <!--Deoxys-->
+    <summary>Deoxys [Aurora Ticket]</summary>
+    <br>
+    Use <strong>Aurora Ticket</strong> In:
+    <ul>
+    <br>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>        
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>Is End [#cobblemon:is_end]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Deoxys-->
 
 ## Generation 4 [Sinnoh]
 <details> <!--Arceus-->

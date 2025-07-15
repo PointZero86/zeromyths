@@ -1676,17 +1676,6 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
 </details> <!--Zarude-->
 
 ## Generation 9 [Paldea/Kitakami]
-<details> <!--Miraidon-->
-    <summary>Miraidon [Violet Book]</summary>
-    <br>
-    Use <strong>Violet Book</strong> In:
-    <ul>
-    <br>
-    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
-    <li>Deep Dark [minecraft:deep_dark]</li>
-    </ul>
-    <p><strong>No Other Conditons</strong></p>
-</details> <!--Miraidon-->
 <details> <!--Koraidon-->
     <summary>Koraidon [Scarlet Book]</summary>
     <br>
@@ -1697,9 +1686,24 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Eroded Badlands [minecraft:eroded_badlands]</li>
     <li>Savanna [minecraft:savanna]</li>
     <li>Savanna Plateau [minecraft:savanna_plateau]</li>
+    <li>Is Savanna [#cobblemon:is_savanna]</li>
+    <li>Is Plateau [#cobblemon:is_plateau]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Koraidon-->
+<details> <!--Miraidon-->
+    <summary>Miraidon [Violet Book]</summary>
+    <br>
+    Use <strong>Violet Book</strong> In:
+    <ul>
+    <br>
+    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
+    <li>Deep Dark [minecraft:deep_dark]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Miraidon-->
 <details> <!--Ogerpon-->
     <summary>Ogerpon [Teal Mask]</summary>
     <br>
@@ -1722,8 +1726,29 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <br>
     <li>Dark Forest [minecraft:dark_forest]</li>
     <li>Swamp [minecraft:swamp]</li>
+    <li>Woodland Mansion [minecraft:woodland_mansion]</li>
+    <li>Swamp Hut [minecraft:swamp_hut]</li>
+    <li>Pillager Outpost [minecraft:pillager_outpost]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Pecharunt-->
+<details> <!--Terapagos-->
+    <summary>Terapagos [Prismatic Shell]</summary>
+    <br>
+    Use <strong>Prismatic Shell</strong> In:
+    <ul>
+    <br>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
+    <li>Is Magical [#cobblemon:is_magical]</li>
+    <li>Is River [#cobblemon:is_river]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
+    <li>Is Magical [#cobblemon:is_magical]</li>
+    <li>Is River [#cobblemon:is_river]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Terapagos-->
+
 
 ![Nina](/assets/ninanina.gif)

@@ -1433,21 +1433,78 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Type: Null-->
-
-## Generation 8 [Galar/Hisui]
-<details> <!--Calyrex-->
-    <summary>Calyrex [Reins Of Unity]</summary>
+<details> <!--Meltan-->
+    <summary>Meltan [Mystery Box]</summary>
     <br>
-    Use <strong>Reins Of Unity</strong> In:
+    Use <strong>Mystery Box</strong> In:
     <ul>
     <br>
-    <li>Is Autumn [#cobblemon:is_autumn]</li>
-    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Taiga [minecraft:taiga]</li>
+    <li>Snowy Taiga [minecraft:snowy_taiga]</li>
+    <li>Mountains [minecraft:mountains]</li>
+    </ul>
+    <p><strong>Required Conditions:</strong></p><ul>
+    <li>Needed Nearby Blocks:
+        <ul>
+        <li>Iron Block</li>
+        </ul></li>
+    </ul>
+</details> <!--Meltan-->
+<details> <!--Zeraora-->
+    <summary>Zeraora [Zeraoras Thunderclaw]</summary>
+    <br>
+    Use <strong>Zeraoras Thunderclaw</strong> In:
+    <ul>
+    <br>
+    <li>Is Savanna [#minecraft:is_savanna]</li>
+    <li>Arid Highlands [terralith:arid_highlands]</li>
+    <li>Ashen Savanna [terralith:ashen_savanna]</li>
+    <li>Brushland [terralith:brushland]</li>
+    <li>Desert Oasis [terralith:desert_oasis]</li>
+    <li>Fractured Savanna [terralith:fractured_savanna]</li>
+    <li>Hot Shrubland [terralith:hot_shrubland]</li>
+    <li>Red Oasis [terralith:red_oasis]</li>
+    <li>Savanna Badlands [terralith:savanna_badlands]</li>
+    <li>Savanna Slopes [terralith:savanna_slopes]</li>
+    <li>Shrubland [terralith:shrubland]</li>
+    <li>Granite Canyon [wythers:granite_canyon]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
-</details> <!--Calyrex-->
+</details> <!--Zeraora-->
+
+## Generation 8 [Galar/Hisui]
+<details> <!--Zacian-->
+    <summary>Zacian [Rusted Sword]</summary>
+    <br>
+    Use <strong>Rusted Sword</strong> In:
+    <ul>
+    <br>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Meadow [minecraft:meadow]</li>
+    <li>Is Magical [#cobblemon:is_magical]</li>
+    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Zacian-->
+<details> <!--Zamazenta-->
+    <summary>Zamazenta [Rusted Shield]</summary>
+    <br>
+    Use <strong>Rusted Shield</strong> In:
+    <ul>
+    <br>
+    <li>Taiga [minecraft:taiga]</li>
+    <li>Windswept Forest [minecraft:windswept_forest]</li>
+    <li>Is Plateau [#cobblemon:is_plateau]</li>
+    <li>Is Savanna [#cobblemon:is_savanna]</li>
+    <li>Is Highlands [#cobblemon:is_highlands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Zamazenta-->
 <details> <!--Eternatus-->
-    <summary>Eternatus [Eternatus Core]</summary>     
+    <summary>Eternatus [Eternatus Core]</summary>
     <br>
     Use <strong>Eternatus Core</strong> In:
     <ul>
@@ -1459,10 +1516,15 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Is Swamp [#forge:is_swamp]</li>
     <li>Is Swamp [#wythers:is_swamp]</li>
     <li>Ice Marsh [terralith:ice_marsh]</li>
-    <li>Orchid Swampc [terralith:orchid_swampc]</li>  
+    <li>Orchid Swampc [terralith:orchid_swampc]</li>
     <li>Billabong [wythers:billabong]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
     </ul>
-    <p><strong>No Other Conditons</strong></p>        
+    <p><strong>No Other Conditons</strong></p>
 </details> <!--Eternatus-->
 <details> <!--Kubfu-->
     <summary>Kubfu [Kubfus Band]</summary>
@@ -1471,11 +1533,11 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <ul>
     <br>
     <li>Is Jungle [#minecraft:is_jungle]</li>
-    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>        
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
     <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
-    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>        
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>
     <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
-    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>        
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>
     <li>Jungle Canyon [wythers:jungle_canyon]</li>
     <li>Subtropical Forest [wythers:subtropical_forest]</li>
     <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
@@ -1485,11 +1547,97 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Tropical Grassland [wythers:tropical_grassland]</li>
     <li>Tropical Island [wythers:tropical_island]</li>
     <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    <li>Bamboo Jungle Highlands [wythers:bamboo_jungle_highlands]</li>
+    <li>Is Bamboo [#cobblemon:is_bamboo]</li>
+    <li>Bamboo Jungle Canyon [wythers:bamboo_jungle_canyon]</li>
+    <li>Bamboo Jungle Highlands [wythers:bamboo_jungle_highlands]</li>
+    <li>Bamboo Jungle Swamp [wythers:bamboo_jungle_swamp]</li>
+    <li>Bamboo Swamp [wythers:bamboo_swamp]</li>
+    <li>Sakura Forest [wythers:sakura_forest]</li>
+    <li>Sandy Jungle [wythers:sandy_jungle]</li>
+    <li>Sparse Bamboo Jungle [wythers:sparse_bamboo_jungle]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Kubfu-->
+<details> <!--Regieleki-->
+    <summary>Regieleki [Plasma Tablet]</summary>
+    <br>
+    Use <strong>Plasma Tablet</strong> In:
+    <ul>
+    <br>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Regieleki-->
+<details> <!--Regidrago-->
+    <summary>Regidrago [Scaly Tablet]</summary>
+    <br>
+    Use <strong>Scaly Tablet</strong> In:
+    <ul>
+    <br>
+    <li>Is Nether [#minecraft:is_nether]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    <li>The End [minecraft:the_end]</li>
+    <li>End Barrens [minecraft:end_barrens]</li>
+    <li>End Highlands [minecraft:end_highlands]</li>
+    <li>End Midlands [minecraft:end_midlands]</li>
+    <li>Small End Islands [minecraft:small_end_islands]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Regidrago-->
+<details> <!--Calyrex-->
+    <summary>Calyrex [Reins Of Unity]</summary>
+    <br>
+    Use <strong>Reins Of Unity</strong> In:
+    <ul>
+    <br>
+    <li>Is Autumn [#cobblemon:is_autumn]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Calyrex-->
+<details> <!--Glastrier-->
+    <summary>Glastrier [Iceroot Carrot]</summary>
+    <br>
+    Use <strong>Iceroot Carrot</strong> In:
+    <ul>
+    <br>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    <li>Is Taiga [#cobblemon:is_taiga]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
+    <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
+    <li>Is Taiga [#cobblemon:is_taiga]</li>
+    <li>Is Mountain [#cobblemon:is_mountain]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Glastrier-->
+<details> <!--Spectrier-->
+    <summary>Spectrier [Shaderoot Carrot]</summary>
+    <br>
+    Use <strong>Shaderoot Carrot</strong> In:
+    <ul>
+    <br>
+    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Is Dark Forest [#cobblemon:is_dark_forest]</li>
+    <li>Is Plains [#cobblemon:is_plains]</li>
+    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Is Spooky [#cobblemon:is_spooky]</li>
+    <li>Is Plains [#cobblemon:is_plains]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Spectrier-->
 <details> <!--Enamorus-->
-    <summary>Enamorus [Reveal Glass]</summary>      
+    <summary>Enamorus [Reveal Glass]</summary>
     <br>
     Use <strong>Reveal Glass</strong> In:
     <ul>
@@ -1502,6 +1650,30 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Must Be Thundering (Rain Does Not Count)</li>
     </ul>
 </details> <!--Enamorus-->
+<details> <!--Zarude-->
+    <summary>Zarude [Zarudes Cape]</summary>
+    <br>
+    Use <strong>Zarudes Cape</strong> In:
+    <ul>
+    <br>
+    <li>Is Jungle [#minecraft:is_jungle]</li>
+    <li>Cave/underground Jungle [terralith:cave/underground_jungle]</li>
+    <li>Dripleaf Swamp [wythers:dripleaf_swamp]</li>
+    <li>Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]</li>
+    <li>Highland Tropical Rainforest [wythers:highland_tropical_rainforest]</li>
+    <li>Humid Tropical Grassland [wythers:humid_tropical_grassland]</li>
+    <li>Jungle Canyon [wythers:jungle_canyon]</li>
+    <li>Subtropical Forest [wythers:subtropical_forest]</li>
+    <li>Subtropical Forest Edge [wythers:subtropical_forest_edge]</li>
+    <li>Subtropical Grassland [wythers:subtropical_grassland]</li>
+    <li>Tropical Forest [wythers:tropical_forest]</li>
+    <li>Tropical Forest Canyon [wythers:tropical_forest_canyon]</li>
+    <li>Tropical Grassland [wythers:tropical_grassland]</li>
+    <li>Tropical Island [wythers:tropical_island]</li>
+    <li>Tropical Rainforest [wythers:tropical_rainforest]</li>
+    </ul>
+    <p><strong>No Other Conditons</strong></p>
+</details> <!--Zarude-->
 
 ## Generation 9 [Paldea/Kitakami]
 <details> <!--Miraidon-->

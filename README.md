@@ -98,12 +98,12 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Clear Bell</strong> In:
     <ul>
     <br>
-    <li>Plains [minecraft:plains]</li>
     <li>Savanna [minecraft:savanna]</li>
     <li>Savanna Plateau [minecraft:savanna_plateau]</li>
-    <li>Is Plains [#cobblemon:is_plains]</li>
-    <li>Is Grassland [#cobblemon:is_grassland]</li>
+    <li>Plains [minecraft:plains]</li>
     <li>Is Arid [#cobblemon:is_arid]</li>
+    <li>Is Grassland [#cobblemon:is_grassland]</li>
+    <li>Is Plains [#cobblemon:is_plains]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Thunder Stones In Inventory</li>
@@ -115,17 +115,17 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Clear Bell</strong> In:
     <ul>
     <br>
-    <li>Badlands [minecraft:badlands]</li>
-    <li>Eroded Badlands [minecraft:eroded_badlands]</li>  
-    <li>Nether Wastes [minecraft:nether_wastes]</li>      
+    <li>Nether Wastes [minecraft:nether_wastes]</li>
     <li>Savanna [minecraft:savanna]</li>
-    <li>Windswept Hills [minecraft:windswept_hills]</li>  
+    <li>Windswept Hills [minecraft:windswept_hills]</li>
+    <li>Eroded Badlands [minecraft:eroded_badlands]</li>
     <li>Windswept Forest [minecraft:windswept_forest]</li>
+    <li>Badlands [minecraft:badlands]</li>
     <li>Is Volcanic [#cobblemon:is_volcanic]</li>
     <li>Is Thermal [#cobblemon:is_thermal]</li>
     <li>Is Badlands [#cobblemon:is_badlands]</li>
     </ul>
-    <p><strong>Required Conditions:</strong></p><ul>      
+    <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Fire Stones In Inventory</li>
     </ul>
 </details> <!--Entei-->
@@ -135,8 +135,8 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Clear Bell</strong> In:
     <ul>
     <br>
-    <li>Frozen River [minecraft:frozen_river]</li>
     <li>River [minecraft:river]</li>
+    <li>Frozen River [minecraft:frozen_river]</li>
     <li>Is Freshwater [#cobblemon:is_freshwater]</li>
     <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
     </ul>
@@ -153,15 +153,9 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <li>Meadow [minecraft:meadow]</li>
     <li>Sunflower Plains [minecraft:sunflower_plains]</li>
     <li>Flower Forest [minecraft:flower_forest]</li>
-    <li>Is Sky [#cobblemon:is_sky]</li>
-    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
     <li>Is Summer [#cobblemon:is_summer]</li>
-    <li>Meadow [minecraft:meadow]</li>
-    <li>Sunflower Plains [minecraft:sunflower_plains]</li>
-    <li>Flower Forest [minecraft:flower_forest]</li>
     <li>Is Sky [#cobblemon:is_sky]</li>
     <li>Sunflower Plains [#minecraft:sunflower_plains]</li>
-    <li>Is Summer [#cobblemon:is_summer]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Ho-Oh-->
@@ -171,43 +165,37 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Tidal Bell</strong> In:
     <ul>
     <br>
+    <li>Ocean [minecraft:ocean]</li>
+    <li>Deep Ocean [minecraft:deep_ocean]</li>
+    <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
     <li>Is Deep Ocean [#minecraft:is_deep_ocean]</li>
-    <li>Deep Ocean [minecraft:deep_ocean]</li>
-    <li>Ocean [minecraft:ocean]</li>
     <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
     <li>Is Ocean [#cobblemon:is_ocean]</li>
-    <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
-    <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
-    <li>Deep Ocean [minecraft:deep_ocean]</li>
-    <li>Ocean [minecraft:ocean]</li>
-    <li>Is Deep Ocean [#cobblemon:is_deep_ocean]</li>
-    <li>Is Ocean [#cobblemon:is_ocean]</li>
-    <li>Is Cold Ocean [#cobblemon:is_cold_ocean]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Lugia-->
 <details> <!--Celebi-->
-    <summary>Celebi [GS Ball]</summary>
+    <summary>Celebi [Gs Ball]</summary>
     <br>
-    Use <strong>GS Ball</strong> In:
+    Use <strong>Gs Ball</strong> In:
     <ul>
     <br>
-    <li>Birch Forest [minecraft:birch_forest]</li>
-    <li>Dark Forest [minecraft:dark_forest]</li>
-    <li>Flower Forest [minecraft:flower_forest]</li>
-    <li>Forest [minecraft:forest]</li>
-    <li>Jungle [minecraft:jungle]</li>
-    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
     <li>Meadow [minecraft:meadow]</li>
+    <li>Cherry Grove [minecraft:cherry_grove]</li>
     <li>Old Growth Birch Forest [minecraft:old_growth_birch_forest]</li>
-    <li>Old Growth Pine Taiga [minecraft:old_growth_pine_taiga]</li>    
     <li>Old Growth Spruce Taiga [minecraft:old_growth_spruce_taiga]</li>
+    <li>Mangrove Swamp [minecraft:mangrove_swamp]</li>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Forest [minecraft:forest]</li>
+    <li>Old Growth Pine Taiga [minecraft:old_growth_pine_taiga]</li>
+    <li>Flower Forest [minecraft:flower_forest]</li>
+    <li>Jungle [minecraft:jungle]</li>
     <li>Swamp [minecraft:swamp]</li>
-    <li>Is Forest [#cobblemon:is_forest]</li>
+    <li>Birch Forest [minecraft:birch_forest]</li>
     <li>Is Magical [#cobblemon:is_magical]</li>
     <li>Is Lush [#cobblemon:is_lush]</li>
-    <li>Cherry Grove [minecraft:cherry_grove]</li>
     <li>Is Spring [#cobblemon:is_spring]</li>
+    <li>Is Forest [#cobblemon:is_forest]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Celebi-->

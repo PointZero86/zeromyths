@@ -3,7 +3,6 @@
 Pokemon have their required (Item) next to their name, click the dropdown for a list of biomes<br>
 Biomes have their tag in [Brackets], check this for modded biomes<br>
 If a Pokemon has additional conditions, they are listed below biomes<br>
-
 Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
 </p>
 
@@ -14,18 +13,18 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Tidal Bell</strong> In:
     <ul>
     <br>
-    <li>Frozen Ocean [minecraft:frozen_ocean]</li>
-    <li>Frozen Peaks [minecraft:frozen_peaks]</li>
     <li>Frozen River [minecraft:frozen_river]</li>
-    <li>Snowy Beach [minecraft:snowy_beach]</li>
-    <li>Snowy Plains [minecraft:snowy_plains]</li>
-    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Frozen Peaks [minecraft:frozen_peaks]</li>
     <li>Snowy Taiga [minecraft:snowy_taiga]</li>
-    <li>Is Cold [#cobblemon:is_cold]</li>
-    <li>Is Freezing [#cobblemon:is_freezing]</li>
+    <li>Snowy Plains [minecraft:snowy_plains]</li>
+    <li>Snowy Beach [minecraft:snowy_beach]</li>
+    <li>Snowy Slopes [minecraft:snowy_slopes]</li>
+    <li>Frozen Ocean [minecraft:frozen_ocean]</li>
     <li>Is Snowy Forest [#cobblemon:is_snowy_forest]</li>
-    <li>Is Glacial [#cobblemon:is_glacial]</li>
+    <li>Is Freezing [#cobblemon:is_freezing]</li>
+    <li>Is Cold [#cobblemon:is_cold]</li>
     <li>Is Frozen Ocean [#cobblemon:is_frozen_ocean]</li>
+    <li>Is Glacial [#cobblemon:is_glacial]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Ice Stones In Inventory</li>
@@ -39,8 +38,8 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     <br>
     <li>Plains [minecraft:plains]</li>
     <li>Savanna [minecraft:savanna]</li>
-    <li>Is Sky [#cobblemon:is_sky]</li>
     <li>Is Mountain [#cobblemon:is_mountain]</li>
+    <li>Is Sky [#cobblemon:is_sky]</li>
     </ul>
     <p><strong>Required Conditions:</strong></p><ul>
     <li>3 Thunder Stones In Inventory</li>
@@ -68,12 +67,11 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Old Sea Map</strong> In:
     <ul>
     <br>
-    <li>Is Jungle [#cobblemon:is_jungle]</li>
-    <li>Bamboo Jungle [minecraft:bamboo_jungle]</li>
     <li>Jungle [minecraft:jungle]</li>
-    <li>Is Jungle [#cobblemon:is_jungle]</li>
+    <li>Bamboo Jungle [minecraft:bamboo_jungle]</li>
     <li>Is Lush [#cobblemon:is_lush]</li>
     <li>Is Bamboo [#cobblemon:is_bamboo]</li>
+    <li>Is Jungle [#cobblemon:is_jungle]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Mew-->
@@ -83,12 +81,12 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
     Use <strong>Dr Fujis Diary</strong> In:
     <ul>
     <br>
-    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
-    <li>Dark Forest [minecraft:dark_forest]</li>
     <li>Deep Dark [minecraft:deep_dark]</li>
-    <li>Is Cave [#cobblemon:is_cave]</li>
-    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>Dark Forest [minecraft:dark_forest]</li>
+    <li>Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]</li>
     <li>Is Spooky [#cobblemon:is_spooky]</li>
+    <li>Is Deep Dark [#cobblemon:is_deep_dark]</li>
+    <li>Is Cave [#cobblemon:is_cave]</li>
     </ul>
     <p><strong>No Other Conditons</strong></p>
 </details> <!--Mewtwo-->
@@ -1752,3 +1750,4 @@ Note: Some of the biomes have duplicates, this is my bad and will be fixed soon!
 
 
 ![Nina](/assets/ninanina.gif)
+![Green](/assets/ominous.png)

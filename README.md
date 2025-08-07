@@ -579,7 +579,7 @@ If A Pokemon Has Special Conditions, It's Listed Below The Biomes<br>
     <li>Is Savanna [#cobblemon:is_savanna]</li>
     <li>Is Dark Forest [#wythers:is_dark_forest]</li>
     </ul>
-    <p><strong>No Other Conditions</strong></p>
+    <p><strong>Have Regice & Regirock & Registeel In Party</strong></p>
 
 ---
 
